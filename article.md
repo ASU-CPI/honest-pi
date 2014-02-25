@@ -1,5 +1,9 @@
 [Source](http://cpi.asu.edu/whats-honest-policy-informatician-do). First published October 28 2013 by [Center for Policy Informatics](http://cpi.asu.edu)
 
+Please see the [README]() for details on this article, how to contribute and how contributions will be evaluated.
+
+___
+
 # What's an honest policy informatician to do?
 
 *“Whenever the people are well-informed, they can be trusted with their own government.”* - Thomas Jefferson
