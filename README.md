@@ -4,10 +4,10 @@ The topic of this [article](https://github.com/ASU-CPI/honest-pi/blob/master/art
 
 But this is also an experiment in collaborative group writing. We are inviting anyone to help us write and improve this article by joining us on [GitHub](https://github.com/ASU-CPI/honest-pi). Rather than deciding beforehand who the list of authors will be and then working together to write the article - by emailing, for example, subsequent versions of Word documents with track changes enabled to each other - we are opening this writing process to anyone interested. Our objectives are first, to try and write a good article, but also to test a number of hypotheses, namely that:
 
-- a group of academic authors can come together using the GitHub platform to collaboratively author an academic article that is successfully submitted to a reputable peer-reviewed journal of the group's choosing,
+- a group of academic authors can come together using the GitHub platform to collaboratively author an academic article that is successfully accepted in a reputable peer-reviewed journal of the group's choosing,
 - discussions amongst the group members can be accommodated entirely on the GitHub platform (i.e., the repo's wiki, issues and pull requests),
-- the article can be written in under 2 months from the date that it is publicly deployed to the date it is ready for submission to a journal,
-- GitHub's network metrics (need additional information) in combination with the evaluation of the participating group members can be used to determine order of authorship,
+- the article can be written in under 2 months (from the date that it is publicly deployed to the date it is ready for submission to a journal),
+- GitHub's network metrics (need additional information) in combination with the evaluation of the participating group members can be used to determine order of authorship and eligibility for authorship,
 - being listed as an author, in order of contribution, will provide sufficient incentive for potential authors to contribute,
 - group decisions, including changing any of the "rules of the game", can be made by the members of the group using [principles of consensus decision-making](http://consensusdecisionmaking.org/Articles/Basics%20of%20Consensus%20Decision%20Making.html).
 
