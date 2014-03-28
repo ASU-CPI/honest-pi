@@ -39,6 +39,8 @@ But if you want to learn a bit about GitHub first, try our [beginner tutorial](h
 - the group has the ability to decide what constitutes authorship (e.g., contributions above a certain threshold). This decision must be made by consensus.
 - order of authorship (or some other means of identifying relative contributions) will be determined by the group members (using a process to be determined).
 - group decisions, including changing any of the "rules of the game", will be made by the members of the group using [principles of consensus decision-making](http://consensusdecisionmaking.org/Articles/Basics%20of%20Consensus%20Decision%20Making.html).
- 
+
+*Do we have a target journal in mind? Can we add a note about this in the article document or maybe also ask that collaboratively through GitHub or IdeaScale? 
+
 ###Licensing 
 Except as otherwise noted, this [honest-pi repo](https://github.com/ASU-CPI/honest-pi) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/deed.en_US). This does not mean unlicensed. Please ensure you understand what this license entails before forking or otherwise attempting to work with the contents of this repo in another space.
