@@ -1,6 +1,6 @@
 #What's an Honest Policy Informatician To Do?
 
-This [article](https://github.com/ASU-CPI/honest-pi/blob/master/article.md) is an exploration of the relationship between evidence and beliefs in public policy discussions. 
+This [article](https://github.com/ASU-CPI/honest-pi/blob/master/article/article.md) is an exploration of the relationship between evidence and beliefs in public policy discussions. 
 
 But this is also an experiment in collaborative group writing. We are inviting anyone to help us write and improve this article by joining us on [GitHub](https://github.com/ASU-CPI/honest-pi). Rather than deciding beforehand who the list of authors will be and then working together to write the article - by, for example, emailing subsequent versions of Word documents with track changes enabled to each other, or using a wiki-type environment to accommodate changes submitted by any contributor - we are opening this writing process to anyone interested. 
 
