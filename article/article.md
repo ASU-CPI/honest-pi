@@ -1,9 +1,4 @@
 [Source](http://cpi.asu.edu/whats-honest-policy-informatician-do). First published October 28 2013 by [Center for Policy Informatics](http://cpi.asu.edu)
-
-Please see the [README](https://github.com/ASU-CPI/honest-pi/blob/master/README.md) for details on this article and the collaborative writing experiment underlying it.
-
-*A key guideline for contributing*: Changes submitted as pull requests should be limited to one line or (each paragraph in the following is a single line). For more substantial changes (e.g., discussions about major structural changes), please [raise an issue](https://github.com/ASU-CPI/honest-pi/issues) or talk about it on the [wiki](https://github.com/ASU-CPI/honest-pi/wiki).
-
 ___
 
 # What's an honest policy informatician to do?
