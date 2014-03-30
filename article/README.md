@@ -1,6 +1,6 @@
 This is the folder containing all the component parts of the article under development.
 
-Start with the file [article.md](https://github.com/ASU-CPI/honest-pi/edit/master/article/article.md) to see the structure and links to component parts. 
+Start with the file [article.md](https://github.com/ASU-CPI/honest-pi/blob/master/article/article.md) to see the structure and links to component parts. 
 
 *A key guideline for contributing*: Changes submitted as pull requests should be limited to one line. 
 
