@@ -4,7 +4,7 @@ You can [raise issues](https://github.com/ASU-CPI/honest-pi/issues), issue a [pu
 
 First Time on GitHub? Don't Know Where to Start? First thing is to [Sign Up for GitHub](https://github.com/join).
 
-After you have a GitHub account you can [go straight to the article and start writing](https://github.com/ASU-CPI/honest-pi/edit/master/article.md#fullscreen_blob_contents). Don't worry - you won't break anything (probably). When you're done, you'll see a little square in the top right hand corner - click on it and you should probably be able to figure your way along from there.
+After you have a GitHub account you can [go straight to the article repository](https://github.com/ASU-CPI/honest-pi/edit/master/article). Don't worry - you won't break anything (probably). When you're done, you'll see a little square in the top right hand corner - click on it and you should probably be able to figure your way along from there.
 
 But if you want to learn a bit about GitHub first, try our [beginner tutorial](https://docs.google.com/document/d/17ZZqDhD-Ax4rmfma6Hi26RTREB-ApKZHzht5TBzWdjY/edit).
 
