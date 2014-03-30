@@ -1,21 +1,21 @@
-Title
+[Title](https://github.com/ASU-CPI/honest-pi/blob/master/article/title.md)
 
-Authors
+[Authors](https://github.com/ASU-CPI/honest-pi/blob/master/article/title.md)
 
-Abstract
+[Abstract](https://github.com/ASU-CPI/honest-pi/blob/master/article/title.md)
 
-Keywords
+[Keywords](https://github.com/ASU-CPI/honest-pi/blob/master/article/title.md)
 
-Introduction
+[Introduction](https://github.com/ASU-CPI/honest-pi/blob/master/article/title.md)
 
-Literature Review
+[Literature Review](https://github.com/ASU-CPI/honest-pi/blob/master/article/title.md)
 
-Structure of Argument
+[Structure of Argument](https://github.com/ASU-CPI/honest-pi/blob/master/article/title.md)
 
-Implications
+[Implications](https://github.com/ASU-CPI/honest-pi/blob/master/article/title.md)
 
-Directions for Future Research
+[Directions for Future Research](https://github.com/ASU-CPI/honest-pi/blob/master/article/title.md)
 
-Conclusions
+[Conclusions](https://github.com/ASU-CPI/honest-pi/blob/master/article/title.md)
 
-References
+[References](https://github.com/ASU-CPI/honest-pi/blob/master/article/title.md)
