@@ -1,4 +1,5 @@
-###Research Questions
+#Research Questions
+version 0.1.0
 
 Our objectives are, first, to try and write a good article and to do it efficiently. But we are also exploring a number of research questions, namely whether:
 
