@@ -1,4 +1,4 @@
-[Source](http://cpi.asu.edu/whats-honest-policy-informatician-do). First published October 28 2013 by [Center for Policy Informatics](http://cpi.asu.edu)
+[Source: http://cpi.asu.edu/whats-honest-policy-informatician-do](http://cpi.asu.edu/whats-honest-policy-informatician-do). First published October 28 2013 by [Center for Policy Informatics](http://cpi.asu.edu)
 ___
 
 # What's an honest policy informatician to do?
