@@ -1,4 +1,5 @@
-###Contributing
+#Contributing
+version 0.1.0
 
 You can [raise issues](https://github.com/ASU-CPI/honest-pi/issues), issue a [pull request](https://github.com/ASU-CPI/honest-pi/pulls) or contribute to the [wiki](https://github.com/ASU-CPI/honest-pi/wiki). We are not concerned with who you are or how significant you think your contribution is. Start by pionting out a typo. Then dive in to more significant changes.
 
