@@ -1,4 +1,5 @@
 #Notes on Creating, Maintaining and Completing this Experiment
+version 0.1.0
 
 This is a place for recording observations on the conduct of this experiment. Please add to this. Observations are currently in no particular order:
 
