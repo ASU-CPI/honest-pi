@@ -1,4 +1,5 @@
-###Rules for Participating 
+#Rules for Participating 
+version 0.1.0
 
 - participation is open to any interested person with the technical means to connect to and edit the repository.
 - contributions must be made through GitHub. Contributors must have their own GitHub account. If you want to be credited for authorship, you will want to use your real name (or be prepared to reveal your real name should the article be accepted for publication). 
