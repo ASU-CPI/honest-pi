@@ -1,4 +1,5 @@
-Authors 
+#Authors
+version 0.1.0 
 
 Subject to discussion amongst contributors 
 
