@@ -3,4 +3,4 @@
 - Launch date: April 1 2014
 - Experiment close: May 31 2014
 
-- weekly check-ins, reminders to collaborators, document management tasks.
+- weekly check-ins, reminders to collaborators, document management tasks. 
