@@ -9,4 +9,4 @@ Our objectives are, first, to try and write a good article and to do it efficien
 - the opportunity to be listed as an author will provide sufficient incentive for potential authors to contribute,
 - group decisions, including changing any of the "rules of the game", can be made by the members of the group using [principles of consensus decision-making](http://consensusdecisionmaking.org/Articles/Basics%20of%20Consensus%20Decision%20Making.html).
 
-An evaluation of these research questions in light of this experiment will be the subject of a [subsequent article](https://github.com/ASU-CPI/github-experiment) using the same process used to write this article.
+An evaluation of these research questions in light of this experiment will be the subject of a [subsequent article](https://github.com/ASU-CPI/github-experiment) using the same process used to write this article. 
