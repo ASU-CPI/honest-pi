@@ -1,4 +1,5 @@
 version 0.1.0
+
 [Title](https://github.com/ASU-CPI/honest-pi/blob/master/article/title.md)
 
 [Authors](https://github.com/ASU-CPI/honest-pi/blob/master/article/authors.md)
