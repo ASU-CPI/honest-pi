@@ -5,7 +5,6 @@
 - [How to contribute](https://github.com/ASU-CPI/honest-pi/blob/master/contributing.md)
 - [Rules for participating](https://github.com/ASU-CPI/honest-pi/blob/master/rules.md)
 - [Research Questions](https://github.com/ASU-CPI/honest-pi/blob/master/researchquestions.md)
-- [Licensing Information](https://github.com/ASU-CPI/honest-pi/blob/master/licensing.md)
 
 ###An Honest GitHub Experiment
 
