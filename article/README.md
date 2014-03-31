@@ -1,3 +1,5 @@
+version 0.1.0
+
 This is the folder containing all the component parts of the article under development.
 
 Start with the file [outline.md](https://github.com/ASU-CPI/honest-pi/blob/master/article/outline.md) to see the structure and links to component parts. 
