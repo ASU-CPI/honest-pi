@@ -13,4 +13,4 @@ But this is also an experiment in collaborative group writing. We are inviting a
 
 We fully anticipate that persuading colleagues to participate in this experiment will not be easy; but we believe that there is enormous potential in this approach. Above all, however, this is truly an experiment - we don't know what will happen. Will the group fragment and fail to meet its objective? Will conflicts be unresolvable? Will authorship become too contentious to determine? Can traditional academic incentives attached to authorship be accommodated within GitHub? Will anyone contribute? Will too many show up? 
 
-Uncertainty is usually exciting. Welcome to a very uncertain experiment.
+Uncertainty is usually exciting. Welcome to a very uncertain experiment. 
