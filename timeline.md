@@ -1,5 +1,5 @@
 #Project Timeline
-version 0.1.0
+version 0.1.1
 
 DAYS REMAINING IN EXPERIMENT: 61 (deadline = May 31 2014)
 
