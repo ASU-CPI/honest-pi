@@ -1,5 +1,8 @@
 #What's an Honest Policy Informatician To Do?
 version 0.1.0
+
+##DAYS REMAINING IN EXPERIMENT: 61 (deadline = May 31 2014)
+
 ###Components
 - [The article itself and the various components](https://github.com/ASU-CPI/honest-pi/tree/master/article)
 - [How to contribute](https://github.com/ASU-CPI/honest-pi/blob/master/contributing.md)
