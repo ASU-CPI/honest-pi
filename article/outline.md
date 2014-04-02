@@ -12,7 +12,7 @@ version 0.1.1
 
 [Literature Review](https://github.com/ASU-CPI/honest-pi/blob/master/article/litreview.md)
 
-[Discussion](https://github.com/ASU-CPI/honest-pi/blob/master/article/argument.md)
+[Discussion](https://github.com/ASU-CPI/honest-pi/blob/master/article/discussion.md)
 
 [Implications](https://github.com/ASU-CPI/honest-pi/blob/master/article/implications.md)
 
