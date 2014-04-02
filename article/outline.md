@@ -1,4 +1,4 @@
-version 0.1.0
+version 0.1.1
 
 [Title](https://github.com/ASU-CPI/honest-pi/blob/master/article/title.md)
 
@@ -12,7 +12,7 @@ version 0.1.0
 
 [Literature Review](https://github.com/ASU-CPI/honest-pi/blob/master/article/litreview.md)
 
-[Structure of Argument](https://github.com/ASU-CPI/honest-pi/blob/master/article/argument.md)
+[Discussion](https://github.com/ASU-CPI/honest-pi/blob/master/article/argument.md)
 
 [Implications](https://github.com/ASU-CPI/honest-pi/blob/master/article/implications.md)
 
