@@ -26,4 +26,4 @@ version 0.1.0
 
 *Go to the individual sections to contribute to them.*
 
-As the content in the sections is built, a master version of the document will be linked to from here. See the [project timeline](https://github.com/ASU-CPI/honest-pi/blob/master/timeline.md) for further dicussion.
+As the content in the sections is built, a master version of the document will be linked to from here. See the [project timeline](https://github.com/ASU-CPI/honest-pi/blob/master/timeline.md) for further discussion.
