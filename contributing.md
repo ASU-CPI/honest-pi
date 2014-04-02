@@ -7,6 +7,8 @@ First Time on GitHub? Don't Know Where to Start? First thing is to [Sign Up for 
 
 After you have a GitHub account you can [go straight to the article repository](https://github.com/ASU-CPI/honest-pi/edit/master/article). Don't worry - you won't break anything (probably).
 
+If you do create your own [fork](https://github.com/ASU-CPI/honest-pi/fork), be sure to keep it synced with the [master fork](https://github.com/ASU-CPI/honest-pi).
+
 You can also help to build the data that will support the second part of this experiment - [a research paper that will observe and report on the process of writing the first article](https://github.com/ASU-CPI/github-experiment) - by recording any observations or thoughts on the process in this [running file of notes on this process](https://github.com/ASU-CPI/github-experiment/blob/master/notes.md).
 
 But if you want to learn a bit about GitHub first, try our [beginner tutorial](http://nextpolicychallenge.github.io/tutorial.html).
