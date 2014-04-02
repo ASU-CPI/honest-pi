@@ -1,7 +1,7 @@
 #Project Timeline
 version 0.1.1
 
-DAYS REMAINING IN EXPERIMENT: 61 (deadline = May 31 2014)
+DAYS REMAINING IN EXPERIMENT: 60 (deadline = May 31 2014)
 
 - Launch date: April 1 2014
 - Experiment close: May 31 2014
