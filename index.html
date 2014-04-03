@@ -23,6 +23,36 @@
         <p class="view"><a href="https://github.com/ASU-CPI/honest-pi">Go to the Honest-PI Article Repo</a></p>
         <p class="view"><a href="https://github.com/ASU-CPI/github-experiment">Go to the GitHub Experiment Article Repo</a></p>
         <p class="view"><a href="http://nextpolicychallenge.github.io/tutorial.html">See Our GitHub Tutorial</a></p>
+        <script>
+/*
+Count down until any date script-
+By JavaScript Kit (www.javascriptkit.com)
+Over 200+ free scripts here!
+*/
+
+//change the text below to reflect your own,
+var current="Today is the last day to contribute!"
+var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
+
+function countdown(yr,m,d){
+var today=new Date()
+var todayy=today.getYear()
+if (todayy < 1000)
+todayy+=1900
+var todaym=today.getMonth()
+var todayd=today.getDate()
+var todaystring=montharray[todaym]+" "+todayd+", "+todayy
+var futurestring=montharray[m-1]+" "+d+", "+yr
+var difference=(Math.round((Date.parse(futurestring)-Date.parse(todaystring))/(24*60*60*1000))*1)
+if (difference==0)
+document.write(current)
+else if (difference>0)
+document.write(difference+ " days until the CSCW <a href='http://cscw.acm.org/2015/submit/'>deadline</a>")
+}
+//enter the count down date using the format year/month/day
+countdown(2014,05,31)
+</script>
+
 
       </header>
 <section><p class="c2 c6"><span></span></p><p class="c2"><span>The CPI is launching an experiment in open collaboration and we invite you to join us.</span></p><p class="c2 c6"><span></span></p><p class="c2"><span>The Center&rsquo;s open governance research stream has been exploring how the </span><span class="c4"><a class="c0" href="http://github.com">GitHub</a></span><span>&nbsp;platform can be adapted from its primary purpose as a collaborative software development environment, to be used instead for collaborative text-based writing. </span></p><p class="c2 c6"><span></span></p><p class="c2"><span>GitHub is a web-based social networking and project hosting service, principally used for software development projects that use a version control system called </span><span class="c4"><a class="c0" href="http://git-scm.com/">Git</a></span><span>. </span></p><p class="c2 c6"><span></span></p><p class="c2"><span>In seeking to use GitHub for open collaborative writing, we are testing in-part the </span><span class="c4"><a class="c0" href="http://youtu.be/CEN4XNth61o?t=14m52s">hypothesis proposed by the noted social media researcher Clay Shirky</a></span><span>&nbsp;that the next great frontier in open collaboration lies in platforms such as GitHub that were originally designed to facilitate software development, but may signal a fundamental transformation from coordination to collaboration. </span></p><p class="c2 c6"><span></span></p><p class="c2"><span>The central research question for this experiment is: can GitHub be used effectively as a platform for open collaboration in co-authored academic writing? </span></p><p class="c2 c6"><span></span></p><p class="c2"><span>The products from this experiment will be two articles to be submitted to academic journals: </span></p><ol class="c7 lst-kix_l4vyk2ptuj55-0 start" start="1"><li class="c2 c5"><span class="c1"><a class="c0" href="https://github.com/ASU-CPI/honest-pi">Honest PI</a></span><span>: a fully-developed version of </span><span>our earlier blog post</span><span>&nbsp;(&ldquo;</span><span class="c1"><a class="c0" href="http://cpi.asu.edu/whats-honest-policy-informatician-do">What&rsquo;s an honest policy informatician to do?</a></span><span>&rdquo;) that looked at the challenge of opening governance when we have trouble agreeing on &ldquo;the facts&rdquo;, and when beliefs and perspectives influence how people interpret facts in public policy discussions; and, </span></li><li class="c2 c5"><span class="c1"><a class="c0" href="https://github.com/ASU-CPI/github-experiment">GitHub Experiment</a></span><span>: a research paper that will observe and report on the process of writing the first article. </span></li></ol><p class="c2 c6"><span></span></p><p class="c2"><span>Both articles will be written entirely within the GitHub platform. </span><span>We are inviting anyone regardless of credentials to join us as a co-author on either or both of these articles. </span></p><p class="c2 c6"><span></span></p><p class="c2"><span>To get started, visit the project site on GitHub &lt;</span><span class="c1"><a class="c0" href="https://github.com/ASU-CPI/honest-pi">https://github.com/ASU-CPI/honest-pi</a></span><span>&gt; where you&rsquo;ll find - amongst other links - instructions on how to contribute and the rules for participating. </span></p><p class="c2 c6"><span></span></p><p class="c2"><span>We are approaching this experiment in an exploratory fashion. While we are aware of many examples of the use of GitHub for collaborative writing, we are not aware of many truly open collaborative writing efforts on GitHub that have succeeded. </span></p><p class="c2 c3"><span>We fully anticipate that persuading colleagues to participate in this experiment will not be easy; but we believe that there is enormous potential in this approach. Above all, however, this is truly an experiment - we don&#39;t know what will happen. Will the group fragment and fail to meet its objective? Will conflicts be unresolvable? Will authorship become too contentious to determine? Can traditional academic incentives attached to authorship be accommodated within GitHub? Will anyone contribute? Will too many show up?</span></p><p class="c2"><span>The upside of uncertainty is that it&rsquo;s usually exciting. Welcome to a very uncertain experiment.</span></p></body></html>
