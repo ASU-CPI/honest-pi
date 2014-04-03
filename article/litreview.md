@@ -1,7 +1,14 @@
 #Literature Review
 version 0.1.1
 
-##Observations of phenomenon
+- examples, observations of the phenomenon
+- what is open governance?
+- evidence-based deliberative democracy (e.g., Habermas)
+- agonistic pluralism (e.g., [Mouffe](http://www.jstor.org/discover/10.2307/40971349?uid=3739552&uid=2&uid=4&uid=3739256&sid=21103788623627)
+- 
+
+
+###Some Text from the original blog post:
 
 Starting first with "[Scientists’ depressing new discovery about the brain](http://www.salon.com/2013/09/17/the_most_depressing_discovery_about_the_brain_ever_partner/)" (Marty Kaplan writing in Salon), which is really a shorter form of "[Science confirms: Politics wrecks your ability to do math](http://grist.org/politics/science-confirms-politics-wrecks-your-ability-to-do-math/)" (Chris Mooney, Grist), both are essentially reporting on recent research that shows that highly numerate people with strong political convictions fail a mathematical challenge when the correct answer to the math problem contradicted their political beliefs. This finding was even more likely when the subject was good at math and when their political beliefs were strongly entrenched.
 
