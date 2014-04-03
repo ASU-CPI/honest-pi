@@ -1,5 +1,12 @@
 #Introduction
-version 0.2.0
+version 0.3.0
+
+- what is the ideal of public deliberation in open governance?
+- what is the reality of how evidence is used in goverance discussions, especially online?
+- is there a fundamental disconnect between this ideal and the current reality?
+
+
+##Some Text from the original blog post:
 
 The developing field of policy informatics is based in part on the belief that complex public policy challenges can be addressed in part “by leveraging cutting-edge computation and communication technology to meaningfully connect people, harness knowledge, and facilitate informed and empowered deliberation, solution-generation, and action.” (["CPI Mission Statement," 2014](https://github.com/ASU-CPI/honest-pi/blob/master/article/references.md)). 
 
