@@ -4,7 +4,7 @@ version 0.1.2
 ##10 Second Briefing:
 - if you can read this page, you're invited to co-write this [article](https://github.com/ASU-CPI/honest-pi/tree/master/article) with us.
 - the experiment runs from April 1 - May 31, 2014 
-- DAYS REMAINING IN EXPERIMENT: 59 (deadline = May 31 2014)
+- DAYS REMAINING IN EXPERIMENT: 58 (deadline = May 31 2014)
 
 ###Components
 - [The article itself and the various components](https://github.com/ASU-CPI/honest-pi/tree/master/article)
