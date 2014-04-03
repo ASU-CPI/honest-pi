@@ -3,7 +3,7 @@ version 0.2.0
 
 - examples, observations of the phenomenon
 - what is open governance?
-- evidence-based deliberative democracy (e.g., Habermas)
+- challenges with evidence-based deliberative democracy (e.g., [Dahlberg](http://onlinelibrary.wiley.com.ezproxy1.lib.asu.edu/doi/10.1111/j.1083-6101.2001.tb00137.x/full))
 - agonistic pluralism (e.g., [Mouffe](http://www.jstor.org/discover/10.2307/40971349?uid=3739552&uid=2&uid=4&uid=3739256&sid=21103788623627))
 
 
