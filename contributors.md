@@ -6,4 +6,5 @@ n.b.: the contributors list is not the same as the [article authors](https://git
 - Hondula, Dave https://github.com/DavidMHondula (founder, rule comments)
 - Longo, Justin https://github.com/JustinLongo (originator)
 - Wald, Dara https://github.com/dwald (founder, rule comments)
+- Kelley, Tanya https://github.com/tmkelley (rule comments)
 
