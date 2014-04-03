@@ -1,6 +1,9 @@
 #Implications
-version 0.1.1
+version 0.2.0
 
+- what are some strategies for re-invigorating deliberative democracy?
+
+### Some Text from the original blog post
 Our work looks towards the generation of experience and empathy through mechanisms more closely related to policy informatics. CPI is currently investigating whether participatory simulation and collaborative decision making can generate [synthetic empathy][22]. Empathy is the act of imagining, understanding, and actively responding to the conditions and perspectives of another related to a particular situation. This project uses a computer mediated synthetic environment as a deliberation space for individual participants to explore the perspectives of others, arrive at consensus, and make decisions for sustainable outcomes under conditions of uncertainty.
 
 Drawing on the observations in “[When Truth Is Personally Inconvenient, Attitudes Change: The Impact of Extreme Weather on Implicit Support for Green Politicians and Explicit Climate-Change Beliefs][23],” we see how our experiences can change what we believe. Joint experiences can promote shared mental models ([Robert et al. 2008][23]). Direct experience with extreme weather events increases a person’s support for politicians promoting environmental causes (see “[After the Storms, A Different Opinion on Climate Change][24]”). We do not suggest creating hurricanes in order to change beliefs about climate change (the human research ethics challenges would be significant, for starters). But we can draw on the use of computation and communication technology as a means to simulate experience through immersive computer environments. Additional research is currently exploring whether the development of a participatory model can generate relational social capital, enhance reciprocity and knowledge exchange (e.g., Takahashi 2000, Yamagishi and Cook 1993; [Robert et al. 2008][23]).
