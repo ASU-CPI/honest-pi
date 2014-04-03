@@ -5,7 +5,6 @@ version 0.2.0
 - what is open governance?
 - evidence-based deliberative democracy (e.g., Habermas)
 - agonistic pluralism (e.g., [Mouffe](http://www.jstor.org/discover/10.2307/40971349?uid=3739552&uid=2&uid=4&uid=3739256&sid=21103788623627)
-- 
 
 
 ###Some Text from the original blog post:
