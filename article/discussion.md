@@ -2,6 +2,7 @@
 version 0.2.0
 
 - how can we resolve the apparent disconnect?
+- does open data offer a solution? see e.g., [How open climate data can improve community resilience against climate change](http://www.techrepublic.com/article/how-open-climate-data-can-improve-community-resilience-against-climate-change/)
 
 ### Some Text from the original blog post: 
 Public policy analysis a generation ago was characterized by a belief that more evidence will lead to better decisions, that education is the foundation of rational behaviour, and that in a democracy we should begin with a discussion of the facts. There’s a quote attributed to the late Senator Daniel Patrick Moynihan - “Everyone is entitled to his own opinion, but not to his own facts” - that characterizes this period in the 1970s, a golden age of policy debate during which Senator Moynihan was a key player.
