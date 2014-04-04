@@ -9,7 +9,6 @@ version 0.2.0
 ###Climate Change, as an example
 - Beliefs about climate change and importance as a policy issue: [Climate Change: Key Data Points from Pew Research](http://www.pewresearch.org/key-data-points/climate-change-key-data-points-from-pew-research/)
 - one web resource out of many that take a "just the facts" approach: ["American Association for the Advancement of Science (AAAS): What We Know - The Reality, Risks and Response to Climate Change."](http://whatweknow.aaas.org/wp-content/uploads/2014/03/AAAS-What-We-Know.pdf)
-- 
 
 
 ###Some Text from the original blog post:
