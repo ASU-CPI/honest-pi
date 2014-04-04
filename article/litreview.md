@@ -9,6 +9,10 @@ version 0.2.0
 ###Climate Change, as an example
 - Beliefs about climate change and importance as a policy issue: [Climate Change: Key Data Points from Pew Research](http://www.pewresearch.org/key-data-points/climate-change-key-data-points-from-pew-research/)
 - one web resource out of many that take a "just the facts" approach: ["American Association for the Advancement of Science (AAAS): What We Know - The Reality, Risks and Response to Climate Change."](http://whatweknow.aaas.org/wp-content/uploads/2014/03/AAAS-What-We-Know.pdf)
+- ["Americans' views", by Monica Contestabile, Nature Climate Change 4, 86 (2014) doi:10.1038/nclimate2109](http://www.nature.com/nclimate/journal/v4/n2/full/nclimate2109.html)
+- ["Psychology: Local weather and climate concern", by Patrick J. Egan & Megan Mullin, Nature Climate Change 4, 89–90 (2014) doi:10.1038/nclimate2104](http://www.nature.com/nclimate/journal/v4/n2/full/nclimate2104.html)
+- [Nature Climate Change - Focus: Public and experts' views about climate change. Individuals' perceptions of, and beliefs about, climate change are affected by direct experience as well as the social, cultural and political context. Communication of a significant degree of scientific agreement on anthropogenic global warming can reduce biases in the formation of people's opinions, but the degree of consensus needs to be quantified. In this web focus, we present a collection of original research and opinion pieces that highlight the various dimensions of public and experts' interpretations of climate change.](http://www.nature.com/nclimate/focus/views-about-change/index.html)
+- ["How warm days increase belief in global warming", by Lisa Zaval, Elizabeth A. Keenan, Eric J. Johnson & Elke U. Weber, Nature Climate Change 4, 143–147 (2014) doi:10.1038/nclimate2093](http://www.nature.com.ezproxy1.lib.asu.edu/nclimate/journal/v4/n2/full/nclimate2093.html)
 
 
 ###Some Text from the original blog post:
