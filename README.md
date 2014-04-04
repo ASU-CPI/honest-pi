@@ -5,13 +5,13 @@ version 0.1.2
 - if you can read this page, you're invited to co-write this [article](https://github.com/ASU-CPI/honest-pi/tree/master/article) with us.
 - if you're really stuck, ask a question on the [wiki - question page](https://github.com/ASU-CPI/honest-pi/wiki/Questions).
 - the experiment runs from April 1 - May 31, 2014 
-- DAYS REMAINING IN EXPERIMENT: 58 (deadline = May 31 2014)
+- DAYS REMAINING IN EXPERIMENT: 57 (deadline = May 31 2014)
 
-###Components
-- [The article itself and the various components](https://github.com/ASU-CPI/honest-pi/tree/master/article)
-- [How to contribute](https://github.com/ASU-CPI/honest-pi/blob/master/contributing.md)
-- [Rules for participating](https://github.com/ASU-CPI/honest-pi/blob/master/rules.md)
-- [Research Questions](https://github.com/ASU-CPI/honest-pi/blob/master/researchquestions.md)
+###Places to Get Started
+- [This folder contains the article itself and its various components.](https://github.com/ASU-CPI/honest-pi/tree/master/article)
+- [These are some notes on how to contribute.](https://github.com/ASU-CPI/honest-pi/blob/master/contributing.md)
+- [These are the "rules" for participating.](https://github.com/ASU-CPI/honest-pi/blob/master/rules.md)
+- [And these are some research questions we hope to address.](https://github.com/ASU-CPI/honest-pi/blob/master/researchquestions.md)
 
 ###An Honest GitHub Experiment
 
