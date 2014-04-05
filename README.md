@@ -1,11 +1,20 @@
 #What's an Honest Policy Informatician To Do?
-version 0.1.3
+version 0.1.4
 
 ##10 Second Briefing:
 - if you can read this page, you're invited to co-write this [article](https://github.com/ASU-CPI/honest-pi/tree/master/article) with us.
 - if you're really stuck, ask a question on the [wiki - question page](https://github.com/ASU-CPI/honest-pi/wiki/Questions).
 - the experiment runs from April 1 - May 31, 2014 
 - DAYS REMAINING IN EXPERIMENT: 57 (deadline = May 31 2014)
+ 
+##Update
+If you want an easier way to make changes, try this: 
+
+1. Make sure you are logged into GitHub.
+2. In another tab or window go to http://prose.io/ and click on "Authorize of GitHub". 
+3. If all goes according to plan, you should then be able to go to http://prose.io/#ASU-CPI/honest-pi and see a clearer path to edit any of the files you want. 
+4. Just click on a file, start adding, deleting, changing ... 
+5. When done, click the save icon on the right hand side, then click on the "Commit" button. 
 
 ###Places to Get Started
 - [This folder contains the article itself and its various components.](https://github.com/ASU-CPI/honest-pi/tree/master/article)
