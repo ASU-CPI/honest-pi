@@ -1,5 +1,5 @@
 #What's an Honest Policy Informatician To Do?
-version 0.1.2
+version 0.1.3
 
 ##10 Second Briefing:
 - if you can read this page, you're invited to co-write this [article](https://github.com/ASU-CPI/honest-pi/tree/master/article) with us.
