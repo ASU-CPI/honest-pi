@@ -36,6 +36,8 @@ These findings - the tendency to interpret evidence in a way that suits our beli
 
 There appear to be many public policy issues where there is fairly strong empirical evidence, yet we still have intense public debate not just about the choices to be made in the face of a looming problem, but about the very nature of the problem - or even whether a problem exists. Anthropogenic global warming is perhaps the most prominent issue, but such issues can be found in policy areas such as public health, public safety, fiscal and monetary policy and environmental risk. On global warming, there are some who look at the [Fifth Assessment Report of the Intergovernmental Panel on Climate Change][15] as the point at which the climate “debate” can finally be settled, where every reasonable person will now agree that human activity has played a significant role in recent climate change and that [we must act now][16]. Others who see the issue differently immediately pointed to the [absence of observed warming ][17]and [past over-predictions][18] as proof that the science can not yet been declared definitive.
 
+The challenge: When the science is "uncertain" and when the "facts" are unclear, you cannot have a productive discussion about governance objectives. Uncertain science requires us to focus on conflict management instead of developing governance or management objectives. 
+
    [5]: http://www.amazon.com/Risk-Culture-Selection-Technological-Environmental/dp/0520050630
    [6]: http://journals.ametsoc.org/doi/abs/10.1175/WCAS-D-12-00048.1
    [7]: http://link.springer.com/article/10.1007/s11109-010-9112-2
