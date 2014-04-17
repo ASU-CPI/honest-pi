@@ -10,7 +10,7 @@ version 0.1.4
 ##Update
 If you want an easier way to make changes, try this: 
 
-1. Make sure you are logged into GitHub.
+1. Make sure you're logged into GitHub.
 2. In another tab or window go to http://prose.io/ and click on "Authorize on GitHub". 
 3. If all goes according to plan, you should then be able to go to http://prose.io/#ASU-CPI/honest-pi and see a clearer path to edit any of the files you want. 
 4. Just click on a file, start adding, deleting, changing ... 
