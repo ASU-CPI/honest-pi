@@ -16,6 +16,8 @@ version 0.1.2
 
 [Implications](https://github.com/ASU-CPI/honest-pi/blob/master/article/implications.md)
 
+[Challenges]
+
 [Directions for Future Research](https://github.com/ASU-CPI/honest-pi/blob/master/article/future.md)
 
 [Conclusions](https://github.com/ASU-CPI/honest-pi/blob/master/article/conclusion.md)
