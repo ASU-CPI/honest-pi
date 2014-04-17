@@ -5,3 +5,4 @@ version 0.1.0
 - public policy
 - open governance
 - beliefs
+- processes
