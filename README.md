@@ -6,7 +6,7 @@ version 0.1.4
 - if you're really stuck, ask a question on the [wiki - question page](https://github.com/ASU-CPI/honest-pi/wiki/Questions).
 - the experiment runs from April 1 - May 31, 2014 
 - DAYS SINCE EXPERIMENT START: 17
-- DAYS REMAINING IN EXPERIMENT: 44 (deadline = May 31 2014) 
+- DAYS REMAINING IN EXPERIMENT: 43 (deadline = May 31 2014) 
  
 ##Update
 If you want an easier way to make changes, try this: 
