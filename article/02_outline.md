@@ -1,28 +1,28 @@
-version 0.1.2
+version 0.1.3
 
-[Title](https://github.com/ASU-CPI/honest-pi/blob/master/article/1_title.md)
+[Title](https://github.com/ASU-CPI/honest-pi/blob/master/article/0a_title.md)
 
-[Authors](https://github.com/ASU-CPI/honest-pi/blob/master/article/2_authors.md)
+[Authors](https://github.com/ASU-CPI/honest-pi/blob/master/article/ob_authors.md)
 
-[Abstract](https://github.com/ASU-CPI/honest-pi/blob/master/article/3_abstract.md)
+[Abstract](https://github.com/ASU-CPI/honest-pi/blob/master/article/0c_abstract.md)
 
-[Keywords](https://github.com/ASU-CPI/honest-pi/blob/master/article/4_keywords.md)
+[Keywords](https://github.com/ASU-CPI/honest-pi/blob/master/article/0d_keywords.md)
 
-[Introduction](https://github.com/ASU-CPI/honest-pi/blob/master/article/5_introduction.md)
+[Introduction](https://github.com/ASU-CPI/honest-pi/blob/master/article/1_introduction.md)
 
-[Literature Review](https://github.com/ASU-CPI/honest-pi/blob/master/article/6_litreview.md)
+[Literature Review](https://github.com/ASU-CPI/honest-pi/blob/master/article/2_litreview.md)
 
-[Discussion](https://github.com/ASU-CPI/honest-pi/blob/master/article/7_discussion.md)
+[Discussion](https://github.com/ASU-CPI/honest-pi/blob/master/article/3_discussion.md)
 
-[Implications](https://github.com/ASU-CPI/honest-pi/blob/master/article/8_implications.md)
+[Implications](https://github.com/ASU-CPI/honest-pi/blob/master/article/4_implications.md)
 
-[Challenges](https://github.com/ASU-CPI/honest-pi/blob/master/article/9_challenges.md)
+[Challenges](https://github.com/ASU-CPI/honest-pi/blob/master/article/5_challenges.md)
 
-[Directions for Future Research](https://github.com/ASU-CPI/honest-pi/blob/master/article/10_future.md)
+[Directions for Future Research](https://github.com/ASU-CPI/honest-pi/blob/master/article/6_future.md)
 
-[Conclusions](https://github.com/ASU-CPI/honest-pi/blob/master/article/11_conclusion.md)
+[Conclusions](https://github.com/ASU-CPI/honest-pi/blob/master/article/7_conclusion.md)
 
-[References](https://github.com/ASU-CPI/honest-pi/blob/master/article/12_references.md)
+[References](https://github.com/ASU-CPI/honest-pi/blob/master/article/8_references.md)
 
 *Changes to this page should be limited to additions, deletions or re-ordering of section headings.*
 
