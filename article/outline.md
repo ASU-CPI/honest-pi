@@ -1,28 +1,28 @@
 version 0.1.2
 
-[Title](https://github.com/ASU-CPI/honest-pi/blob/master/article/title.md)
+[Title](https://github.com/ASU-CPI/honest-pi/blob/master/article/1_title.md)
 
-[Authors](https://github.com/ASU-CPI/honest-pi/blob/master/article/authors.md)
+[Authors](https://github.com/ASU-CPI/honest-pi/blob/master/article/2_authors.md)
 
-[Abstract](https://github.com/ASU-CPI/honest-pi/blob/master/article/abstract.md)
+[Abstract](https://github.com/ASU-CPI/honest-pi/blob/master/article/3_abstract.md)
 
-[Keywords](https://github.com/ASU-CPI/honest-pi/blob/master/article/keywords.md)
+[Keywords](https://github.com/ASU-CPI/honest-pi/blob/master/article/4_keywords.md)
 
-[Introduction](https://github.com/ASU-CPI/honest-pi/blob/master/article/introduction.md)
+[Introduction](https://github.com/ASU-CPI/honest-pi/blob/master/article/5_introduction.md)
 
-[Literature Review](https://github.com/ASU-CPI/honest-pi/blob/master/article/litreview.md)
+[Literature Review](https://github.com/ASU-CPI/honest-pi/blob/master/article/6_litreview.md)
 
-[Discussion](https://github.com/ASU-CPI/honest-pi/blob/master/article/discussion.md)
+[Discussion](https://github.com/ASU-CPI/honest-pi/blob/master/article/7_discussion.md)
 
-[Implications](https://github.com/ASU-CPI/honest-pi/blob/master/article/implications.md)
+[Implications](https://github.com/ASU-CPI/honest-pi/blob/master/article/8_implications.md)
 
-[Challenges]
+[Challenges](https://github.com/ASU-CPI/honest-pi/blob/master/article/9_challenges.md)
 
-[Directions for Future Research](https://github.com/ASU-CPI/honest-pi/blob/master/article/future.md)
+[Directions for Future Research](https://github.com/ASU-CPI/honest-pi/blob/master/article/10_future.md)
 
-[Conclusions](https://github.com/ASU-CPI/honest-pi/blob/master/article/conclusion.md)
+[Conclusions](https://github.com/ASU-CPI/honest-pi/blob/master/article/11_conclusion.md)
 
-[References](https://github.com/ASU-CPI/honest-pi/blob/master/article/references.md)
+[References](https://github.com/ASU-CPI/honest-pi/blob/master/article/12_references.md)
 
 *Changes to this page should be limited to additions, deletions or re-ordering of section headings.*
 
