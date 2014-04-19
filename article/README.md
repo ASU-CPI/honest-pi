@@ -11,4 +11,3 @@ Or go straight to the [Master Document of all component parts](article/01_articl
 For more substantial changes (e.g., discussions about major structural changes), please [raise an issue](https://github.com/ASU-CPI/honest-pi/issues) or talk about it on the [wiki](https://github.com/ASU-CPI/honest-pi/wiki).
 
 Please see the main [README](https://github.com/ASU-CPI/honest-pi/blob/master/README.md) for details on this article and the collaborative writing experiment underlying it.
-
