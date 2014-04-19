@@ -8,7 +8,7 @@ version 0.1.4
 - DAYS SINCE EXPERIMENT START: 17
 - DAYS REMAINING IN EXPERIMENT: 43 (deadline = May 31 2014) 
  
-##Update
+##Update - Editing Using Prose.io
 If you want an easier way to make changes, try this: 
 
 1. Make sure you're logged into GitHub.
