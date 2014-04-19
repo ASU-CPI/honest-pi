@@ -1,5 +1,5 @@
 #Contributors to this Project
-version 0.1.1
+version 0.1.2
 
 n.b.: the contributors list is not the same as the [article authors](https://github.com/ASU-CPI/honest-pi/blob/master/article/authors.md) list
 
