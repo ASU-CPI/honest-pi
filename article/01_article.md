@@ -51,6 +51,8 @@ ___
 - challenges with evidence-based deliberative democracy (e.g., [Dahlberg](http://onlinelibrary.wiley.com.ezproxy1.lib.asu.edu/doi/10.1111/j.1083-6101.2001.tb00137.x/full))
 - agonistic pluralism (e.g., [Mouffe](http://www.jstor.org/discover/10.2307/40971349?uid=3739552&uid=2&uid=4&uid=3739256&sid=21103788623627)) 
 - [Bringing values and deliberation to science communication](http://www.pnas.org/content/110/Supplement_3/14081.full) - Tom Dietz
+- [No, you’re not entitled to your opinion](http://theconversation.com/no-youre-not-entitled-to-your-opinion-9978#comment_88159) - Patrick Stokes
+
 
 ###Climate Change, as an example
 - Beliefs about climate change and importance as a policy issue: [Climate Change: Key Data Points from Pew Research](http://www.pewresearch.org/key-data-points/climate-change-key-data-points-from-pew-research/)
