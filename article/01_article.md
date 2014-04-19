@@ -3,18 +3,18 @@ April 18 2014, 11 pm MST-AZ
 This is the MASTER VERSION of the final document compiled at milestones throughout the project. 
 
 ___
-# Title: What's an honest policy informatician to do?
+## Title: What's an honest policy informatician to do?
 version 0.1.0
 see [wiki page](https://github.com/ASU-CPI/honest-pi/wiki/Article-Title) for discussion of possible title ideas.
 
 ___
-# Authors: To be determined
+### Authors: To be determined
 
 ___
-# Abstract: 
+### Abstract: 
 
 ___
-# Keywords: 
+### Keywords: 
 
 Introduction
 
