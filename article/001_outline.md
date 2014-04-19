@@ -1,12 +1,9 @@
 version 0.1.3
 
-[Title](https://github.com/ASU-CPI/honest-pi/blob/master/article/0a_title.md)
-
-[Authors](https://github.com/ASU-CPI/honest-pi/blob/master/article/ob_authors.md)
-
-[Abstract](https://github.com/ASU-CPI/honest-pi/blob/master/article/0c_abstract.md)
-
-[Keywords](https://github.com/ASU-CPI/honest-pi/blob/master/article/0d_keywords.md)
+[Title](0a_title.md)
+- [Authors](https://github.com/ASU-CPI/honest-pi/blob/master/article/ob_authors.md)
+- [Abstract](https://github.com/ASU-CPI/honest-pi/blob/master/article/0c_abstract.md)
+- [Keywords](https://github.com/ASU-CPI/honest-pi/blob/master/article/0d_keywords.md)
 
 [Introduction](https://github.com/ASU-CPI/honest-pi/blob/master/article/1_introduction.md)
 
