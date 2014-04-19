@@ -21,7 +21,6 @@ If you want an easier way to make changes, try this:
 - [This folder contains the article itself and its various components.](https://github.com/ASU-CPI/honest-pi/tree/master/article)
 - [These are some notes on how to contribute.](https://github.com/ASU-CPI/honest-pi/blob/master/contributing.md)
 - [These are the "rules" for participating.](https://github.com/ASU-CPI/honest-pi/blob/master/rules.md)
-- [And these are some research questions we hope to address.](https://github.com/ASU-CPI/honest-pi/blob/master/researchquestions.md)
 
 ###An Honest GitHub Experiment
 
