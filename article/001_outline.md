@@ -6,6 +6,7 @@ version 0.2.1
 - [Keywords](0d_keywords.md)
 
 [Introduction](1_introduction.md)
+- [What is Policy Informatics](1.1_whatispi.md)
 
 [Literature Review](2_litreview.md)
 
