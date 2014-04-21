@@ -41,6 +41,12 @@ Such a deeply troubling finding caused us to ask: how can we have open governanc
 
 A fundamental assumption of policy informatics is that people can be empowered to make better decisions about their individual lives and society as a whole. This relies on the belief that access to information will change the way individuals think, learn, and act.
 
+
+##What is Policy Informatics
+version 0.1.0
+
+This sub-section would contextualize the issue by defining what policy informatics is and why the problem of an inability to agree on a factual faoundation prior to debating an issue should be problematic for PI.
+
 ___
 ## Literature Review
 - examples, observations of the phenomenon
