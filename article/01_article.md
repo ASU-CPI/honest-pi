@@ -25,11 +25,16 @@ policy informatics, public policy, open governance, beliefs, processes
 
 ___
 ## Introduction
+
+
+
+A fundamental assumption of policy informatics is that people can be empowered to make better decisions about their individual lives and society as a whole. This relies on the belief that access to information will change the way individuals think, learn, and act.
 - what is the ideal of public deliberation in open governance?
 - what is the reality of how evidence is used in goverance discussions, especially online?
 - is there a fundamental disconnect between this ideal and the current reality?
 
 ###Some Text from the original blog post: 
+
 
 The developing field of policy informatics is based in part on the belief that complex public policy challenges can be addressed in part “by leveraging cutting-edge computation and communication technology to meaningfully connect people, harness knowledge, and facilitate informed and empowered deliberation, solution-generation, and action.” (["CPI Mission Statement," 2014](https://github.com/ASU-CPI/honest-pi/blob/master/article/references.md)). 
 
@@ -39,7 +44,7 @@ Such a deeply troubling finding caused us to ask: how can we have open governanc
 
 ### Beginning draft
 
-A fundamental assumption of policy informatics is that people can be empowered to make better decisions about their individual lives and society as a whole. This relies on the belief that access to information will change the way individuals think, learn, and act.
+There is a growing belief that contemporary complex public policy challenges can be addressed, in part, by "leveraging cutting-edge computation and communication technology to meaningfully connect people, harness knowledge, and facilitate informed and empowered deliberation, solution-generation, and action (REF). Implict in this belief is the notion that more information, better information, and the discovery of new facts will lead to positive changes in the way individuals and groups entities think, learn, and act. This belief is also one of the core tenets of the emerging field of policy informatics, which aims to build capacity for such achievements around technological and computational advances.  But what if this belief is untrue, because values, principles, and idealogies weigh so heavily on decision-making that they alter interpretation and/or receptivity to facts? What does this imply for our governance systems as a whole, and the ability of policy informatics to make improvements therein? These are the central questions explored in this manuscript, (continue about the overall framework and how we are going to explore them)....
 
 
 ##What is Policy Informatics
@@ -61,6 +66,8 @@ ___
 
 
 ###Climate Change, as an example
+(you are probably getting used to (or tired of) me saying this, but I think it's important to be specific here. Is this about observed changes in climate and believing they are/are not occurring, the role of human activities in driving such change, CO2 emissions specifically, the impacts climate change (regardless of the relative contributions of various causes) will have on society?)
+
 - Beliefs about climate change and importance as a policy issue: [Climate Change: Key Data Points from Pew Research](http://www.pewresearch.org/key-data-points/climate-change-key-data-points-from-pew-research/)
 - one web resource out of many that take a "just the facts" approach: ["American Association for the Advancement of Science (AAAS): What We Know - The Reality, Risks and Response to Climate Change."](http://whatweknow.aaas.org/wp-content/uploads/2014/03/AAAS-What-We-Know.pdf)
 - ["Americans' views", by Monica Contestabile, Nature Climate Change 4, 86 (2014) doi:10.1038/nclimate2109](http://www.nature.com/nclimate/journal/v4/n2/full/nclimate2109.html)
