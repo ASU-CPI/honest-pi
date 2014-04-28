@@ -22,6 +22,8 @@ version 0.2.0
 - ["How warm days increase belief in global warming", by Lisa Zaval, Elizabeth A. Keenan, Eric J. Johnson & Elke U. Weber, Nature Climate Change 4, 143–147 (2014) doi:10.1038/nclimate2093](http://www.nature.com.ezproxy1.lib.asu.edu/nclimate/journal/v4/n2/full/nclimate2093.html)
 - [Political Rifts Slow U.S. Effort on Climate Laws](http://www.nytimes.com/2014/04/15/us/politics/political-rifts-slow-us-effort-on-climate-laws.html?smid=tw-share&_r=0)
 - [Why climate deniers are winning: The twisted psychology that overwhelms scientific consensus](http://www.salon.com/2014/04/19/why_climate_deniers_are_winning_the_twisted_psychology_that_overwhelms_scientific_consensus/)
+- [The rise and fall of America’s climate deniers: How politics hijacked the fight against global warming
+Partisan rhetoric has stymied real action on climate change, but there's still hope, says philosopher Dale Jamieson](http://www.salon.com/2014/04/26/the_rise_and_fall_of_americas_climate_deniers_how_politics_hijacked_the_fight_against_global_warming/)
 
 ###Some Text from the original blog post:
 
