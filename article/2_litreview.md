@@ -12,6 +12,7 @@ version 0.2.0
 - [Bringing values and deliberation to science communication](http://www.pnas.org/content/110/Supplement_3/14081.full) - Tom Dietz
 - [No, you’re not entitled to your opinion](http://theconversation.com/no-youre-not-entitled-to-your-opinion-9978#comment_88159) - Patrick Stokes
 - [are lies in political discussions "cornerstones of American democracy" ?](http://www.npr.org/2014/04/22/299171030/supreme-court-will-hear-challenge-to-ohio-ban-on-campaign-lies)
+- [Battling Bad Science - TED Talk video, Ben Goldacre ](http://www.ted.com/talks/ben_goldacre_battling_bad_science?awesm=on.ted.com_Goldacre&utm_campaign=&utm_medium=on.ted.com-static&utm_source=facebook.com&utm_content=awesm-publisher)
 
 ###Climate Change, as an example
 - Beliefs about climate change and importance as a policy issue: [Climate Change: Key Data Points from Pew Research](http://www.pewresearch.org/key-data-points/climate-change-key-data-points-from-pew-research/)
