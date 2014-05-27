@@ -1,4 +1,4 @@
-version 0.2.1
+version 0.2.2
 
 [Title](0a_title.md)
 - [Authors](0b_authors.md)
@@ -24,6 +24,6 @@ version 0.2.1
 
 *Click on the individual sections above to contribute to them.*
 
-*Changes to this page should be limited to additions, deletions or re-ordering of section headings.*
+*Changes to this page should be limited to section additions and deletions or re-ordering of section headings.*
 
 As the content in the sections is built, a [master version of the document](01_article.md) will be linked to from here and updated based on the [project timeline](https://github.com/ASU-CPI/honest-pi/blob/master/timeline.md).
