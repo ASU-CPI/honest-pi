@@ -29,6 +29,7 @@ ___
 
 
 A fundamental assumption of policy informatics is that people can be empowered to make better decisions about their individual lives and society as a whole. This relies on the belief that access to information will change the way individuals think, learn, and act.
+- Does it rely on the idea that information will change beliefs or that people make decisions based on the best available information? 
 - what is the ideal of public deliberation in open governance?
 - what is the reality of how evidence is used in goverance discussions, especially online?
 - is there a fundamental disconnect between this ideal and the current reality?
