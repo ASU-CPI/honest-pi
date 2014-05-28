@@ -1,5 +1,5 @@
-version 0.2.0
-April 18 2014, 11 pm MST-AZ
+version 0.2.1
+May 27 2014, 5 pm MST-AZ
 This is the MASTER VERSION of the document compiled at milestones throughout the project. 
 
 ___
