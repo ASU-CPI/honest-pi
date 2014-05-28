@@ -8,7 +8,12 @@ version 0.2.0
 
 ### Potential addition to discussion section:
 
-Looking at the influence of the human mind on data interpretation, it is possible to feel discourged about the likelihood of achieving the aspiractions of Open Government. However, to do so would be to discount the impact of continued reflection and evolving practice. There is immense potential in people becoming aware of their behaviors and inclinations. This means that with constructive framing, people can learn to approach data differently than they would have done so before.  
+Looking at the influence of the human mind on data interpretation, it is possible to feel discouraged about the likelihood of achieving the aspirations of Open Government. However, to do so would be to discount the impact of continued reflection and evolving practice. There is immense potential in people becoming aware of their behaviors and inclinations. This means that with constructive framing, people can learn to approach data differently than they would have done so before.  
+
+note from Stone (2012): why a completely rational approach ("just the facts") misses the point of policy making:
+- the rational policy sciences approach sees politics as a paradox because the messiness of politics clashes with the world view of the rationality project. While politics has a dark, self-interested side that produces conflict, politics is also the route by which passions lead to creative solutions.
+- rationality prides itself on being above politics; but the lenses that rationality brings to analysis are the product themselves of political claims not universal truths (see also Lasswell's normative basis of the the policy sciences).
+- the rational policy approach is dominated by economics, which sees human interactions in terms of market mechanisms - which describes a world very different from most human interactions and community forms. 
 
 ### Some Text from the original blog post: 
 Public policy analysis a generation ago was characterized by a belief that more evidence will lead to better decisions, that education is the foundation of rational behaviour, and that in a democracy we should begin with a discussion of the facts. There’s a quote attributed to the late Senator Daniel Patrick Moynihan - “Everyone is entitled to his own opinion, but not to his own facts” - that characterizes this period in the 1970s, a golden age of policy debate during which Senator Moynihan was a key player.
