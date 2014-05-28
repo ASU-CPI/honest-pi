@@ -26,8 +26,6 @@ policy informatics, public policy, open governance, beliefs, processes
 ___
 ## Introduction
 
-
-
 The policy sciences emerged around the middle of the past century, built on the idea that social problems were amenable to scientifically informed, rationally derived, government led solutions (Lasswell, 1951). A mark of pride of the modern, rational, professionally goverened state was that objective advice based on evidence, analysis and expertise could usefully inform a decision maker’s thinking, and that “good” policy analysis was a key foundation for “good” policy decisions (Quade, 1976).
 
 Policy informatics is an emerging discipline that draws upon this rationalist policy sciences traditional and combines it with system sciences (von Bertalanffy, 1968; Weiner, 1948) in an interdisciplinary exploration of how advances in information and communications technologies (ICTs) can strengthen and broaden the policy sciences approach, improving decision support while increasing the range of voices accommodated within the discussion. Policy informatics is not a technocratic or purely computational approach to policy analysis (at least not in the way we define it here); the use of ICTs as facilitators of deliberation and collaboration are as much part of the policy informatics approach as are the use of ICT-based techniques such as agent-based modelling, big data analytics and simulation (Johnston and Kim, 2012). In this way, policy informatics accommodates the post-positivist turn in policy analysis (Fischer, 1998) while being grounded in Lasswell's vision of the policy sciences as a joining of scientific analysis with democratic studies (deLeon, 1997).
