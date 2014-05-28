@@ -30,24 +30,6 @@ The policy sciences emerged around the middle of the past century, built on the 
 
 Policy informatics is an emerging discipline that draws upon this rationalist policy sciences traditional and combines it with system sciences (von Bertalanffy, 1968; Weiner, 1948) in an interdisciplinary exploration of how advances in information and communications technologies (ICTs) can strengthen and broaden the policy sciences approach, improving decision support while increasing the range of voices accommodated within the discussion. Policy informatics is not a technocratic or purely computational approach to policy analysis (at least not in the way we define it here); the use of ICTs as facilitators of deliberation and collaboration are as much part of the policy informatics approach as are the use of ICT-based techniques such as agent-based modelling, big data analytics and simulation (Johnston and Kim, 2012). In this way, policy informatics accommodates the post-positivist turn in policy analysis (Fischer, 1998) while being grounded in Lasswell's vision of the policy sciences as a joining of scientific analysis with democratic studies (deLeon, 1997).
 
-Some principles of policy informatics are beginning to emerge:
-- policy informatics seeks to strenghten technology competencies amongst public administrators across a range of techniques from working with complex policy scenarios to bringing diverse stakeholders together in technology-enabled forums. 
-- policy informatics promotes appropriate risk-taking in technology deployment, to the end of making public institutions more robust and improving the degree to which they are perceived as legitimacy.  
-- to broaden the scope of public agencies and redefine their relevance in advancing the public interest
-
-
-
-Third, related to risk averseness, is the fear that technology may somehow make public agencies irrelevant or diminish their value. In reality, the opposite is true; technology . As will become immensely clear through the various chapters in the book, the use of computational and communication technologies provides us with new ways to look at, process, and utilize information that results in innovative methods to solve problems, deploy resources, engage citizens, and ultimately keep public institutions relevant in the increasingly complex and dynamic times and environments of today. 
-
-Fourth, just like we should not squander away water or any other asset and resource of our planet, we should not squander away data resources. Technology affords the institutions and people within government, markets, and society the capacity to leverage information and data with greater relevancy, potency, and creativity to address common interests, shared issues, and public problems. Organizations such as Code for America and others are trying to push the innovation envelope in the public sector when it comes to tapping into the power of technology and the latent value in public data. Public organizations will only be receptive to these efforts and be willing to take calculated risks in terms of experimenting with new technologies if they understand their value. Thus, we believe that the use of technologies to reform how we govern and design governance institutions will be one of the central areas of inquiry that cuts across a number of scholarly disciplines. 
-
-In this chapter, we begin by outlining the developments in how we conduct science and why the time is ripe to embrace developments in the examination of public problems and opportunities. We then introduce the societal trends calling for a policy informatics focus in how we tackle complex public administration and policy problems. Next, we provide a working definition of policy informatics and outline its three main foci and thematic sections of this book on analysis, processes, and governance infrastructures, discussing how the various chapters in this book illuminate each. We conclude the chapter with a suggestion of how to process the material in the book and a request to begin a conversation with us on policy informatics.
-
-\\\\\\\
-
-
-
-
 However, at the core of the policy sciences approach - and, by extension, policy informatics - are several premises, including that the objective of evidence-based analysis should be to better inform deliberation and decision making, that better-informed decisions are preferred to less-informed decisions and that objective facts are both attainable and a necessary foundation for rational discourse. Whether the application of ICTs is emphasized or not, both approaches - policy sciences and policy informatics - share a belief that more information is preferred to less, that rationality is preferred to irrationality, that evidence is preferred to belief and objective analysis can provide clarity in uncertain situations.
 
 Our concern here is with what role policy informatics can play in an environment where those premises appear not to be valid. What if the core assumptions underlying policy informatics are untrue, because values and beliefs weigh so heavily on interpretation that they alter receptivity to information and ultimate guide decision-making?  
@@ -64,9 +46,19 @@ This article is an investigation of this challenge.
 
 
 ##What is Policy Informatics
-version 0.1.0
+version 0.2.0
 
-This sub-section would contextualize the issue by defining what policy informatics is and why the problem of an inability to agree on a factual faoundation prior to debating an issue should be problematic for PI.
+This sub-section would contextualize the issue by defining what policy informatics is and why the problem of an inability to agree on a factual foundation prior to debating an issue should be problematic for PI.
+
+Advances in computational and communication technologies are revolutionizing our approaches to data-intensive science, big data, generative science, simulation, collaborative science and open governance.
+
+Some objectives of policy informatics are beginning to emerge:
+- to strenghten technology competencies amongst public administrators across a range of techniques from working with complex policy scenarios to bringing diverse stakeholders together in technology-enabled forums. 
+- to promote appropriate risk-taking in technology deployment, to the end of making public institutions more robust and improving the degree to which they are perceived as legitimate.  
+- to broaden the scope of public agencies and redefine their relevance in advancing the public interest through new ways of looking at, processing and utilizing information.
+- to leverage information and data with greater relevancy, potency, and creativity to address common interests, shared issues, and public problems. 
+
+
 
 ___
 ## Literature Review
