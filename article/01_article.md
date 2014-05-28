@@ -1,5 +1,5 @@
-version 0.3.0
-May 27 2014, 5 pm MST-AZ
+version 0.3.1
+May 28 2014, 3 pm MST-AZ
 This is the MASTER VERSION of the document compiled at milestones throughout the project. 
 
 ___
@@ -26,7 +26,7 @@ policy informatics, public policy, open governance, beliefs, processes
 ___
 ## Introduction
 
-The policy sciences emerged around the middle of the past century, built on the idea that social problems were amenable to scientifically informed, rationally derived, government led solutions (Lasswell, 1951). A mark of pride of the modern, rational, professionally goverened state was that objective advice based on evidence, analysis and expertise could usefully inform a decision maker’s thinking, and that “good” policy analysis was a key foundation for “good” policy decisions (Quade, 1976).
+Policy informatics is an emerging discipline built on the idea that complex public policy challenges are best addressed through the leveraging of computation and communication technologies that harness knowledge and facilitate informed deliberation and collective action. At the core of the policy informatics movement are several premises, including that the objective of evidence-based analysis should be to better inform deliberation and decision making, and that better-informed decisions are preferred to less-informed decisions. Recent research and experience seems to indicate, however, that basic analytical functions are influenced by one's beliefs, that evidence is often selectively used to support one's argument, and that "facts" supporting a contrary position rarely succeed in changing one's beliefs, position or decision. If these findings are true, they would seem to undermine the founding principles of policy informatics. We review the explanations of the current state of evidence-based deliberation and policy making and propose a recalibration of the objectives for policy informatics that better reflect the political and psychological underpinnings of decision making.The policy sciences emerged around the middle of the past century, built on the idea that social problems were amenable to scientifically informed, rationally derived, government led solutions that could be free of the ambiguities and paradoxes of politics (Lasswell, 1951). A mark of pride of the modern, rational, professionally goverened state (Simon, 1976) was that objective advice based on evidence, analysis and expertise could usefully inform a decision maker’s thinking, and that “good” policy analysis was a key foundation for “good” policy decisions (Quade, 1975). Like the related fields of political science, public administration, law and economics, the public policy aims of these social sciences share a common mission: to inform policy deliberation using analysis, scientific methods and rational argumentation (Stone, 2012). 
 
 Policy informatics is an emerging discipline that draws upon this rationalist policy sciences traditional and combines it with system sciences (von Bertalanffy, 1968; Weiner, 1948) in an interdisciplinary exploration of how advances in information and communications technologies (ICTs) can strengthen and broaden the policy sciences approach, improving decision support while increasing the range of voices accommodated within the discussion. Policy informatics is not a technocratic or purely computational approach to policy analysis (at least not in the way we define it here); the use of ICTs as facilitators of deliberation and collaboration are as much part of the policy informatics approach as are the use of ICT-based techniques such as agent-based modelling, big data analytics and simulation (Johnston and Kim, 2012). In this way, policy informatics accommodates the post-positivist turn in policy analysis (Fischer, 1998) while being grounded in Lasswell's vision of the policy sciences as a joining of scientific analysis with democratic studies (deLeon, 1997).
 
@@ -36,7 +36,7 @@ Our concern here is with what role policy informatics can play in an environment
 
 In the fall of 2013, we began to notice increasing Internet chatter highlighting research suggesting that a person’s ability to solve a mathematical problem is affected by their beliefs. In most instances 2 + 2 = 4. But if the answer 4 conflicts with your beliefs or preferences, an answer that aligned more closely to your beliefs will be more persuasive. And then, it gets worse: telling you that the answer is 4 - an answer at odds with your strongly held belief - may only cause you to more strongly hold onto your insistence that the answer is actually 30. Or -5. Or the methods that produced 4 are suspect. Or that the premise of the question is flawed. 
 
-Added to this specific finding are general observations about the state of deliberation and policy making in our democracies: debates about the very existence of human-caused climate change forestall debates about how to best address the problem; epidemiological and drug-trial evidence are questioned by non-scientists who cite government and drug company conspiracies as reasons to avoid vaccinations; whether Social Security is sustainable over the long-term depends on which model you believe. 
+Added to this specific finding are general observations about the state of deliberation and policy making in our democracies: debates about the very existence of human-caused climate change forestall debates about how to best address the problem; epidemiological and drug-trial evidence are questioned by activist parents who point towards possible government and drug company conspiracies as reasons to avoid common childhood vaccinations; whether Social Security is sustainable over the long-term, whether wealth inequality is increasing or gender pay-differences exist depends on which model you believe. 
 
 Such deeply troubling findings and observations cause us to ask: how can we have rationale governance when we can’t rely on evidence to frame our discussions? Moreover, how can we hope to facilitate informed decisions and actions when ideological beliefs trump scientific facts? 
 
@@ -101,6 +101,16 @@ ___
 - how can we resolve the apparent disconnect?
 - does open data offer a solution? see e.g., [How open climate data can improve community resilience against climate change](http://www.techrepublic.com/article/how-open-climate-data-can-improve-community-resilience-against-climate-change/) and [http://thehill.com/blogs/congress-blog/energy-environment/201219-white-house-climate-change-initiative-republicans-can](http://thehill.com/blogs/congress-blog/energy-environment/201219-white-house-climate-change-initiative-republicans-can)
 
+### Potential addition to discussion section:
+
+Looking at the influence of the human mind on data interpretation, it is possible to feel discouraged about the likelihood of achieving the aspirations of Open Government. However, to do so would be to discount the impact of continued reflection and evolving practice. There is immense potential in people becoming aware of their behaviors and inclinations. This means that with constructive framing, people can learn to approach data differently than they would have done so before.
+
+note from Stone (2012): why a completely rational approach ("just the facts") misses the point of policy making:
+
+the rational policy sciences approach sees politics as a paradox because the messiness of politics clashes with the world view of the rationality project. While politics has a dark, self-interested side that produces conflict, politics is also the route by which passions lead to creative solutions.
+rationality prides itself on being above politics; but the lenses that rationality brings to analysis are the product themselves of political claims not universal truths (see also Lasswell's normative basis of the the policy sciences).
+the rational policy approach is dominated by economics, which sees human interactions in terms of market mechanisms - which describes a world very different from most human interactions and community forms.
+
 ### Some Text from the original blog post: 
 Public policy analysis a generation ago was characterized by a belief that more evidence will lead to better decisions, that education is the foundation of rational behaviour, and that in a democracy we should begin with a discussion of the facts. There’s a quote attributed to the late Senator Daniel Patrick Moynihan - “Everyone is entitled to his own opinion, but not to his own facts” - that characterizes this period in the 1970s, a golden age of policy debate during which Senator Moynihan was a key player.
 
@@ -147,7 +157,13 @@ Summary of the paper
 ___
 ## References
 
-Center for Policy Informatics Mission Statement. (2014). Retrieved April 1, 2014, from https://cpi.asu.edu/about
+Lasswell, H. D. (1951). “The policy orientation”, pp. 3-15 in D. Lerner and H.D. Lasswell (eds.), _The Policy Sciences_. Stanford, CA: Stanford University Press.
+
+Quade, E. S. (1975). _Analysis for public decisions_. New York: Elsevier.
+
+Simon, H. A. (2013). _Administrative behavior_. 4th edition. New York: Simon and Schuster.
+
+Stone, D. A. (2012). _Policy paradox: The art of political decision making_. 3rd edition. New York: W W Norton.
 
 
 
