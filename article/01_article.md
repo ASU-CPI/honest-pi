@@ -1,4 +1,4 @@
-version 0.2.1
+version 0.3.0
 May 27 2014, 5 pm MST-AZ
 This is the MASTER VERSION of the document compiled at milestones throughout the project. 
 
@@ -17,7 +17,7 @@ One way to do determine either authors or contributors could be to allow contrib
 ___
 ### Abstract: 
 
-Modern decision making is facilitated by unprecedented access to rich information and computational resources. 
+Policy informatics is an emerging discipline built on the idea that complex public policy challenges are best addressed through the leveraging of computation and communication technologies that harness knowledge and facilitate informed deliberation and collective action. At the core of the policy informatics movement are several premises, including that the objective of evidence-based analysis should be to better inform deliberation and decision making, and that better-informed decisions are preferred to less-informed decisions. Recent research and experience seems to indicate, however, that basic analytical functions are influenced by one's beliefs, that evidence is often selectively used to support one's argument, and that "facts" supporting a contrary position rarely succeed in changing one's decisions. If these findings are true, they would seem to undermine the founding principles of policy informatics. We review the explanations of the current state of evidence-based deliberation and policy making and propose a recalibration of the objectives for policy informatics that better reflect the political and psychological underpinnings of decision making. 
 
 ___
 ### Keywords: 
@@ -28,24 +28,23 @@ ___
 
 
 
-A fundamental assumption of policy informatics is that people can be empowered to make better decisions about their individual lives and society as a whole. This relies on the belief that access to information will change the way individuals think, learn, and act.
-- Does it rely on the idea that information will change beliefs or that people make decisions based on the best available information? 
-- what is the ideal of public deliberation in open governance?
-- what is the reality of how evidence is used in goverance discussions, especially online?
-- is there a fundamental disconnect between this ideal and the current reality?
+The policy sciences emerged around the middle of the past century, built on the idea that social problems were amenable to scientifically informed, rationally derived, government led solutions (Lasswell, 1951). A mark of pride of the modern, rational, professionally goverened state was that objective advice based on evidence, analysis and expertise could usefully inform a decision maker’s thinking, and that “good” policy analysis was a key foundation for “good” policy decisions (Quade, 1976).
 
-###Some Text from the original blog post: 
+Policy informatics is an emerging discipline that draws upon this rationalist policy sciences traditional and combines it with system sciences (von Bertalanffy, 1968; Weiner, 1948) in an interdisciplinary exploration of how advances in information and communications technologies (ICTs) can strengthen and broaden the policy sciences approach, improving decision support while increasing the range of voices accommodated within the discussion. Policy informatics is not a technocratic or purely computational approach to policy analysis (at least not in the way we define it here); the use of ICTs as facilitators of deliberation and collaboration are as much part of the policy informatics approach as are the use of ICT-based techniques such as agent-based modelling, big data analytics and simulation (Johnston and Kim, 2012). In this way, policy informatics accommodates the post-positivist turn in policy analysis (Fischer, 1998) while being grounded in Lasswell's vision of the policy sciences as a joining of scientific analysis with democratic studies (deLeon, 1997).
 
+However, at the core of the policy sciences approach - and, by extension, policy informatics - are several premises, including that the objective of evidence-based analysis should be to better inform deliberation and decision making, that better-informed decisions are preferred to less-informed decisions and that objective facts are both attainable and a necessary foundation for rational discourse. Whether the application of ICTs is emphasized or not, both approaches - policy sciences and policy informatics - share a belief that more information is preferred to less, that rationality is preferred to irrationality, that evidence is preferred to belief and objective analysis can provide clarity in uncertain situations.
 
-The developing field of policy informatics is based on the belief that complex public policy challenges can be addressed in part “by leveraging cutting-edge computation and communication technology to meaningfully connect people, harness knowledge, and facilitate informed and empowered deliberation, solution-generation, and action.” (["CPI Mission Statement," 2014](https://github.com/ASU-CPI/honest-pi/blob/master/article/references.md)). 
+Our concern here is with what role policy informatics can play in an environment where those premises appear not to be valid. What if the core assumptions underlying policy informatics are untrue, because values and beliefs weigh so heavily on interpretation that they alter receptivity to information and ultimate guide decision-making?  
 
-In the fall of 2013, we began to notice increasing Internet chatter highlighting research suggesting that a person’s ability to solve a mathematical problem is affected by their beliefs. In most instances 2 + 2 = 4. Except - it turns out - that if the answer 4 conflicts with your beliefs or preferences. Answers that aligned more closely to strongly held beliefs were more likely to be chosen. And then, it gets worse: telling you that the answer is 4, which conflicts with your strongly held belief, may only cause you to more strongly hold onto your insistence that it’s actually 30. Or -5. Or that the premise of the question is flawed.
+In the fall of 2013, we began to notice increasing Internet chatter highlighting research suggesting that a person’s ability to solve a mathematical problem is affected by their beliefs. In most instances 2 + 2 = 4. But if the answer 4 conflicts with your beliefs or preferences, an answer that aligned more closely to your beliefs will be more persuasive. And then, it gets worse: telling you that the answer is 4 - an answer at odds with your strongly held belief - may only cause you to more strongly hold onto your insistence that the answer is actually 30. Or -5. Or the methods that produced 4 are suspect. Or that the premise of the question is flawed. 
 
-Such a deeply troubling finding caused us to ask: how can we have open governance - indeed, how can we hope to have any kind of rationale governance - when we can’t rely on evidence to frame our discussions? Moreover, how can we hope to facilitate informed decisions and actions when ideological beliefs trump scientific facts? This article is an investigation of this challenge.
+Added to this specific finding are general observations about the state of deliberation and policy making in our democracies: debates about the very existence of human-caused climate change forestall debates about how to best address the problem; epidemiological and drug-trial evidence are questioned by non-scientists who cite government and drug company conspiracies as reasons to avoid vaccinations; whether Social Security is sustainable over the long-term depends on which model you believe. 
 
-### Beginning draft
+Such deeply troubling findings and observations cause us to ask: how can we have rationale governance when we can’t rely on evidence to frame our discussions? Moreover, how can we hope to facilitate informed decisions and actions when ideological beliefs trump scientific facts? 
 
-There is a growing belief that contemporary complex public policy challenges can be addressed, in part, by "leveraging cutting-edge computation and communication technology to meaningfully connect people, harness knowledge, and facilitate informed and empowered deliberation, solution-generation, and action (REF). Implicit in this belief is the notion that more information, better information, and the discovery of new facts will lead to positive changes in the way individuals and groups entities think, learn, and act. This belief is also one of the core tenets of the emerging field of policy informatics, which aims to build capacity for such achievements around technological and computational advances.  But what if this belief is untrue, because values, principles, and idealogies weigh so heavily on decision-making that they alter interpretation and/or receptivity to facts? How does this affect how we govern, teach and communicate, and the ability of policy informatics to make improvements therein? These are the central questions explored in this manuscript, (continue about the overall framework and how we are going to explore them)....
+This article is an investigation of this challenge. 
+
+(needs article overview)
 
 
 ##What is Policy Informatics
