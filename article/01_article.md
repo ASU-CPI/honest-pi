@@ -17,7 +17,7 @@ One way to do determine either authors or contributors could be to allow contrib
 ___
 ### Abstract: 
 
-Policy informatics is an emerging discipline built on the idea that complex public policy challenges are best addressed through the leveraging of computation and communication technologies that harness knowledge and facilitate informed deliberation and collective action. At the core of the policy informatics movement are several premises, including that the objective of evidence-based analysis should be to better inform deliberation and decision making, and that better-informed decisions are preferred to less-informed decisions. Recent research and experience seems to indicate, however, that basic analytical functions are influenced by one's beliefs, that evidence is often selectively used to support one's argument, and that "facts" supporting a contrary position rarely succeed in changing one's beliefs, position or decision. If these findings are true, they would seem to undermine the founding principles of policy informatics. We review the explanations of the current state of evidence-based deliberation and policy making and propose a recalibration of the objectives for policy informatics that better reflect the political and psychological underpinnings of decision making. 
+Policy informatics is an emerging discipline built on the idea that complex public policy challenges are best addressed through the leveraging of information, computation and communication technologies that harness knowledge and facilitate informed deliberation and collective action. At the core of the policy informatics movement are several premises, including that the objective of evidence-based analysis should be to better inform deliberation and decision making, and that better-informed decisions are preferred to less-informed decisions. Recent research and experience seems to indicate, however, that basic analytical functions are influenced by one's beliefs, that evidence is often selectively used to support one's argument, and that "facts" supporting a contrary position rarely succeed in changing one's beliefs, position or decision. If these findings are true, they would seem to undermine the founding principles of policy informatics. We review the explanations of the current state of evidence-based deliberation and policy making and propose a recalibration of the objectives for policy informatics that better reflect the political and psychological underpinnings of decision making. 
 
 ___
 ### Keywords: 
@@ -62,6 +62,7 @@ ___
 - [Bringing values and deliberation to science communication](http://www.pnas.org/content/110/Supplement_3/14081.full) - Tom Dietz 
 - See recent issue in PAR on values http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-6210/earlyview
 - [No, you’re not entitled to your opinion](http://theconversation.com/no-youre-not-entitled-to-your-opinion-9978#comment_88159) - Patrick Stokes
+- policy analysis literature: intersection of analysis and politics; post-positivism, "evidence, argument and persuasion" (Majone), "democracy and expertise" (Fischer); 
 
 
 ###Climate Change, as an example
@@ -100,16 +101,17 @@ ___
 
 - how can we resolve the apparent disconnect?
 - does open data offer a solution? see e.g., [How open climate data can improve community resilience against climate change](http://www.techrepublic.com/article/how-open-climate-data-can-improve-community-resilience-against-climate-change/) and [http://thehill.com/blogs/congress-blog/energy-environment/201219-white-house-climate-change-initiative-republicans-can](http://thehill.com/blogs/congress-blog/energy-environment/201219-white-house-climate-change-initiative-republicans-can)
+- does the policy sciences literature provide a solution? of is what's happening now (i.e., the willful dismissing of evidence at odds with one's preferred course of action) something new?
+- 
 
 ### Potential addition to discussion section:
 
 Looking at the influence of the human mind on data interpretation, it is possible to feel discouraged about the likelihood of achieving the aspirations of Open Government. However, to do so would be to discount the impact of continued reflection and evolving practice. There is immense potential in people becoming aware of their behaviors and inclinations. This means that with constructive framing, people can learn to approach data differently than they would have done so before.
 
 note from Stone (2012): why a completely rational approach ("just the facts") misses the point of policy making:
-
-the rational policy sciences approach sees politics as a paradox because the messiness of politics clashes with the world view of the rationality project. While politics has a dark, self-interested side that produces conflict, politics is also the route by which passions lead to creative solutions.
-rationality prides itself on being above politics; but the lenses that rationality brings to analysis are the product themselves of political claims not universal truths (see also Lasswell's normative basis of the the policy sciences).
-the rational policy approach is dominated by economics, which sees human interactions in terms of market mechanisms - which describes a world very different from most human interactions and community forms.
+- the rational policy sciences approach sees politics as a paradox because the messiness of politics clashes with the world view of the rationality project. While politics has a dark, self-interested side that produces conflict, politics is also the route by which passions lead to creative solutions.
+- rationality prides itself on being above politics; but the lenses that rationality brings to analysis are the product themselves of political claims not universal truths (see also Lasswell's normative basis of the the policy sciences).
+- the rational policy approach is dominated by economics, which sees human interactions in terms of market mechanisms - which describes a world very different from most human interactions and community forms.
 
 ### Some Text from the original blog post: 
 Public policy analysis a generation ago was characterized by a belief that more evidence will lead to better decisions, that education is the foundation of rational behaviour, and that in a democracy we should begin with a discussion of the facts. There’s a quote attributed to the late Senator Daniel Patrick Moynihan - “Everyone is entitled to his own opinion, but not to his own facts” - that characterizes this period in the 1970s, a golden age of policy debate during which Senator Moynihan was a key player.
