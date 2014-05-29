@@ -1,12 +1,19 @@
 #Literature Review
 version 0.3.0
 
-- examples, observations of the phenomenon: what's the problem?
+Section outline:
+- what's the problem? examples, observations of the phenomenon
+- special case of climate change "debate"
+- streams of literature that explain the phenomenon
 
 
-Kahan et al.: why doesn't evidence-based analysis resolve political debates? Testing the "Science Comprehension Thesis" (the public is not capable of understanding the science) points towards more education as the solution. The alternative hypothesis centers not on finding the right answer but on prevailing in arguments, increasing or maintaining standing, or group affinity. Perhaps humans reason for purposes other than finding the truth — purposes like increasing their standing in their community, or ensuring they don’t piss off the leaders of their tribe; in this model, more education doesn't settle arguments - it makes participants better able to argue for their side and dismiss the opposing arguments.
 
-The findings show generally that for issues where respondents would not have a preference over the result (e.g., efficacy of a skin cream), the Science Comprehension Thesis fits: more education (specifically in mathematical reasoning) improved a respondents ability to correctly interpret evidence. 
+
+The role of science communication of evidence requires the important distinction that both facts and values are at play when citizens interpret such information (Dietz, 2013).  This is critical because as science has become more important to our society in recent decades, science has been increasing politicized and therefore interpreted through a political framework based on values.  
+
+The challenge: When the science is "uncertain" and when the "facts" are unclear, you cannot have a productive discussion about governance objectives. Uncertain science requires us to focus on conflict management instead of developing governance or management objectives.
+
+
 
 
 - challenges with evidence-based deliberative democracy (e.g., [Dahlberg](http://onlinelibrary.wiley.com.ezproxy1.lib.asu.edu/doi/10.1111/j.1083-6101.2001.tb00137.x/full))
@@ -31,6 +38,12 @@ The findings show generally that for issues where respondents would not have a p
 - [Political Rifts Slow U.S. Effort on Climate Laws](http://www.nytimes.com/2014/04/15/us/politics/political-rifts-slow-us-effort-on-climate-laws.html?smid=tw-share&_r=0)
 - [Why climate deniers are winning: The twisted psychology that overwhelms scientific consensus](http://www.salon.com/2014/04/19/why_climate_deniers_are_winning_the_twisted_psychology_that_overwhelms_scientific_consensus/)
 
+
+
+Kahan et al.: why doesn't evidence-based analysis resolve political debates? Testing the "Science Comprehension Thesis" (the public is not capable of understanding the science) points towards more education as the solution. The alternative hypothesis centers not on finding the right answer but on prevailing in arguments, increasing or maintaining standing, or group affinity. Perhaps humans reason for purposes other than finding the truth — purposes like increasing their standing in their community, or ensuring they don’t piss off the leaders of their tribe; in this model, more education doesn't settle arguments - it makes participants better able to argue for their side and dismiss the opposing arguments.
+
+The findings show generally that for issues where respondents would not have a preference over the result (e.g., efficacy of a skin cream), the Science Comprehension Thesis fits: more education (specifically in mathematical reasoning) improved a respondents ability to correctly interpret evidence. When presented with a topic having political overtones (e.g., the efficacy of gun control laws on crime statistics), strong mathematical reasoning abilities no longer predicted ability to correctly solve the problem; rather, the ideology of the respondent became the dominant factor in ability to correctly reason based on the evidence.
+
 ### Some Text from the original blog post:
 
 Starting first with "[Scientists’ depressing new discovery about the brain](http://www.salon.com/2013/09/17/the_most_depressing_discovery_about_the_brain_ever_partner/)" (Marty Kaplan writing in Salon), which is really a shorter form of "[Science confirms: Politics wrecks your ability to do math](http://grist.org/politics/science-confirms-politics-wrecks-your-ability-to-do-math/)" (Chris Mooney, Grist), both are essentially reporting on recent research that shows that highly numerate people with strong political convictions fail a mathematical challenge when the correct answer to the math problem contradicted their political beliefs. This finding was even more likely when the subject was good at math and when their political beliefs were strongly entrenched.
@@ -47,6 +60,4 @@ These findings - the tendency to interpret evidence in a way that suits our beli
 
 There appear to be many public policy issues where there is fairly strong empirical evidence, yet we still have intense public debate not just about the choices to be made in the face of a looming problem, but about the very nature of the problem - or even whether a problem exists. Anthropogenic global warming is perhaps the most prominent issue, but such issues can be found in policy areas such as public health, public safety, fiscal and monetary policy and environmental risk. On global warming, there are some who look at the [Fifth Assessment Report of the Intergovernmental Panel on Climate Change](http://www.ipcc.ch/) as the point at which the climate “debate” can finally be settled, where every reasonable person will now agree that human activity has played a significant role in recent climate change and that [we must act now](http://www.huffingtonpost.ca/david-suzuki/ipcc-report-climate-change_b_4026114.html?utm_hp_ref=tw). Others who see the issue differently immediately pointed to the [absence of observed warming](http://www.dailytech.com/After%2BMissing%2B5%2BPredictions%2BIPCC%2BCuts%2BGlobal%2BWarming%2BForecast/article33457.htm) and [past over-predictions](http://www.nature.com/nclimate/journal/v3/n9/full/nclimate1972.html) as proof that the science can not yet been declared definitive.
 
-The role of science communication of evidence requires the important distinction that both facts and values are at play when citizens interpret such information (Dietz, 2013).  This is critical because as science has become more important to our society in recent decades, science has been increasing politicized and therefore interpreted through a political framework based on values.  
 
-The challenge: When the science is "uncertain" and when the "facts" are unclear, you cannot have a productive discussion about governance objectives. Uncertain science requires us to focus on conflict management instead of developing governance or management objectives.
