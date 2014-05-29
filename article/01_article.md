@@ -102,7 +102,6 @@ ___
 - how can we resolve the apparent disconnect?
 - does open data offer a solution? see e.g., [How open climate data can improve community resilience against climate change](http://www.techrepublic.com/article/how-open-climate-data-can-improve-community-resilience-against-climate-change/) and [http://thehill.com/blogs/congress-blog/energy-environment/201219-white-house-climate-change-initiative-republicans-can](http://thehill.com/blogs/congress-blog/energy-environment/201219-white-house-climate-change-initiative-republicans-can)
 - does the policy sciences literature provide a solution? of is what's happening now (i.e., the willful dismissing of evidence at odds with one's preferred course of action) something new?
-- 
 
 ### Potential addition to discussion section:
 
