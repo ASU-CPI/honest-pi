@@ -1,18 +1,17 @@
-version 0.4.0
-May 28 2014, 5 pm MST-AZ
+version 0.5.0
+May 29 2014, 8 am MST-AZ
 This is the MASTER VERSION of the document compiled at milestones throughout the project. 
 
-___
-## Title: What's an honest policy informatician to do?
-
-see [wiki page](https://github.com/ASU-CPI/honest-pi/wiki/Article-Title) for discussion of possible title ideas.
+N.B.: MASTER VERSION has been decompiled for the day. Please see the component parts linked to below.
 
 ___
-### Authors: To be determined
+[## Title: What's an honest policy informatician to do?](https://github.com/ASU-CPI/honest-pi/blob/master/article/0a_title.md)
 
-Subject to discussion amongst contributors. See [rules](https://github.com/ASU-CPI/honest-pi/blob/master/rules.md)
 
-One way to do determine either authors or contributors could be to allow contributors to complete a taxonomy for each contributor. The taxonomy can be found here: http://www.nature.com/news/publishing-credit-where-credit-is-due-1.15033?WT.ec_id=NATURE-20140417. 
+___
+[### Authors: To be determined](https://github.com/ASU-CPI/honest-pi/blob/master/article/0b_authors.md)
+
+
 
 ___
 ### Abstract: 
