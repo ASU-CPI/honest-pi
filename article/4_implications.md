@@ -1,7 +1,8 @@
 #Implications
-version 0.2.0
+version 0.3.0
 
 - what are some strategies for re-invigorating deliberative democracy?
+- is policy informatics relevant in this new environment? Does it continue without reference to the problem as though to say there is nothing that can be done about it?
 
 ### Some Text from the original blog post
 Our work looks towards the generation of experience and empathy through mechanisms more closely related to policy informatics. CPI is currently investigating whether participatory simulation and collaborative decision making can generate [synthetic empathy](https://cpi.asu.edu/project/synthetic-empathy). Empathy is the act of imagining, understanding, and actively responding to the conditions and perspectives of another related to a particular situation. This project uses a computer mediated synthetic environment as a deliberation space for individual participants to explore the perspectives of others, arrive at consensus, and make decisions for sustainable outcomes under conditions of uncertainty.
