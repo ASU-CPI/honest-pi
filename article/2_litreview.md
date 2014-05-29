@@ -1,36 +1,32 @@
 #Literature Review
-version 0.2.0
+version 0.3.0
 
 - examples, observations of the phenomenon
-	- Evolution could be another high-profile example where evidence takes the back seat in debates on educational policy
-    - Use of bag limits in recreational fisheries management could be short-ish an example. 
-        
-- articles that raise the issue
 
+- articles that raise the issue
 
 - what is open governance?
 - challenges with evidence-based deliberative democracy (e.g., [Dahlberg](http://onlinelibrary.wiley.com.ezproxy1.lib.asu.edu/doi/10.1111/j.1083-6101.2001.tb00137.x/full))
-- agonistic pluralism (e.g., [Mouffe](http://www.jstor.org/discover/10.2307/40971349?uid=3739552&uid=2&uid=4&uid=3739256&sid=21103788623627))
-- [Bringing values and deliberation to science communication](http://www.pnas.org/content/110/Supplement_3/14081.full) - Tom Dietz
+- agonistic pluralism (e.g., [Mouffe](http://www.jstor.org/discover/10.2307/40971349?uid=3739552&uid=2&uid=4&uid=3739256&sid=21103788623627)) 
+- [Bringing values and deliberation to science communication](http://www.pnas.org/content/110/Supplement_3/14081.full) - Tom Dietz 
+- See recent issue in PAR on values http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-6210/earlyview
 - [No, you’re not entitled to your opinion](http://theconversation.com/no-youre-not-entitled-to-your-opinion-9978#comment_88159) - Patrick Stokes
-- [are lies in political discussions "cornerstones of American democracy" ?](http://www.npr.org/2014/04/22/299171030/supreme-court-will-hear-challenge-to-ohio-ban-on-campaign-lies)
-- [Battling Bad Science - TED Talk video, Ben Goldacre ](http://www.ted.com/talks/ben_goldacre_battling_bad_science?awesm=on.ted.com_Goldacre&utm_campaign=&utm_medium=on.ted.com-static&utm_source=facebook.com&utm_content=awesm-publisher)
+- policy analysis literature: intersection of analysis and politics; post-positivism, "evidence, argument and persuasion" (Majone), "democracy and expertise" (Fischer); 
 
 
 ###Climate Change, as an example
+(you are probably getting used to (or tired of) me saying this, but I think it's important to be specific here. Is this about observed changes in climate and believing they are/are not occurring, the role of human activities in driving such change, CO2 emissions specifically, the impacts climate change (regardless of the relative contributions of various causes) will have on society?)
+
 - Beliefs about climate change and importance as a policy issue: [Climate Change: Key Data Points from Pew Research](http://www.pewresearch.org/key-data-points/climate-change-key-data-points-from-pew-research/)
 - one web resource out of many that take a "just the facts" approach: ["American Association for the Advancement of Science (AAAS): What We Know - The Reality, Risks and Response to Climate Change."](http://whatweknow.aaas.org/wp-content/uploads/2014/03/AAAS-What-We-Know.pdf)
 - ["Americans' views", by Monica Contestabile, Nature Climate Change 4, 86 (2014) doi:10.1038/nclimate2109](http://www.nature.com/nclimate/journal/v4/n2/full/nclimate2109.html)
 - ["Psychology: Local weather and climate concern", by Patrick J. Egan & Megan Mullin, Nature Climate Change 4, 89–90 (2014) doi:10.1038/nclimate2104](http://www.nature.com/nclimate/journal/v4/n2/full/nclimate2104.html)
-- [Nature Climate Change - Focus: Public and experts' views about climate change. Individuals' perceptions of, and beliefs about, climate change are affected by direct experience as well as the social, cultural and political context. Communication of a significant degree of scientific agreement on anthropogenic global warming can reduce biases in the formation of people's opinions, but the degree of consensus needs to be quantified. In this web focus, we present a collection of original research and opinion pieces that highlight the various dimensions of public and experts' interpretations of climate change.](http://www.nature.com/nclimate/focus/views-about-change/index.html)
+- [Nature Climate Change - Focus: Public and experts' views about climate change](http://www.nature.com/nclimate/focus/views-about-change/index.html): Individuals' perceptions of, and beliefs about, climate change are affected by direct experience as well as the social, cultural and political context. Communication of a significant degree of scientific agreement on anthropogenic global warming can reduce biases in the formation of people's opinions, but the degree of consensus needs to be quantified. In this web focus, we present a collection of original research and opinion pieces that highlight the various dimensions of public and experts' interpretations of climate change.
 - ["How warm days increase belief in global warming", by Lisa Zaval, Elizabeth A. Keenan, Eric J. Johnson & Elke U. Weber, Nature Climate Change 4, 143–147 (2014) doi:10.1038/nclimate2093](http://www.nature.com.ezproxy1.lib.asu.edu/nclimate/journal/v4/n2/full/nclimate2093.html)
 - [Political Rifts Slow U.S. Effort on Climate Laws](http://www.nytimes.com/2014/04/15/us/politics/political-rifts-slow-us-effort-on-climate-laws.html?smid=tw-share&_r=0)
-- [The Quantum Theory of Climate Denial](http://www.huffingtonpost.com/john-cook/the-quantum-theory-of-climate-denial_b_5229539.html)
 - [Why climate deniers are winning: The twisted psychology that overwhelms scientific consensus](http://www.salon.com/2014/04/19/why_climate_deniers_are_winning_the_twisted_psychology_that_overwhelms_scientific_consensus/)
-- [The rise and fall of America’s climate deniers: How politics hijacked the fight against global warming
-Partisan rhetoric has stymied real action on climate change, but there's still hope, says philosopher Dale Jamieson](http://www.salon.com/2014/04/26/the_rise_and_fall_of_americas_climate_deniers_how_politics_hijacked_the_fight_against_global_warming/)
 
-###Some Text from the original blog post:
+### Some Text from the original blog post:
 
 Starting first with "[Scientists’ depressing new discovery about the brain](http://www.salon.com/2013/09/17/the_most_depressing_discovery_about_the_brain_ever_partner/)" (Marty Kaplan writing in Salon), which is really a shorter form of "[Science confirms: Politics wrecks your ability to do math](http://grist.org/politics/science-confirms-politics-wrecks-your-ability-to-do-math/)" (Chris Mooney, Grist), both are essentially reporting on recent research that shows that highly numerate people with strong political convictions fail a mathematical challenge when the correct answer to the math problem contradicted their political beliefs. This finding was even more likely when the subject was good at math and when their political beliefs were strongly entrenched.
 
@@ -48,4 +44,4 @@ There appear to be many public policy issues where there is fairly strong empiri
 
 The role of science communication of evidence requires the important distinction that both facts and values are at play when citizens interpret such information (Dietz, 2013).  This is critical because as science has become more important to our society in recent decades, science has been increasing politicized and therefore interpreted through a political framework based on values.  
 
-The challenge: When the science is "uncertain" and when the "facts" are unclear, you cannot have a productive discussion about governance objectives. Uncertain science requires us to focus on conflict management instead of developing governance or management objectives. 
+The challenge: When the science is "uncertain" and when the "facts" are unclear, you cannot have a productive discussion about governance objectives. Uncertain science requires us to focus on conflict management instead of developing governance or management objectives.
