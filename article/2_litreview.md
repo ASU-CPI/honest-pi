@@ -1,17 +1,22 @@
 #Literature Review
 version 0.3.0
 
-- examples, observations of the phenomenon
+- examples, observations of the phenomenon: what's the problem?
 
-- articles that raise the issue
 
-- what is open governance?
+Kahan et al.: why doesn't evidence-based analysis resolve political debates? Testing the "Science Comprehension Thesis" (the public is not capable of understanding the science) points towards more education as the solution. The alternative hypothesis centers not on finding the right answer but on prevailing in arguments, increasing or maintaining standing, or group affinity. Perhaps humans reason for purposes other than finding the truth — purposes like increasing their standing in their community, or ensuring they don’t piss off the leaders of their tribe; in this model, more education doesn't settle arguments - it makes participants better able to argue for their side and dismiss the opposing arguments.
+
+The findings show generally that for issues where respondents would not have a preference over the result (e.g., efficacy of a skin cream), the Science Comprehension Thesis fits: more education (specifically in mathematical reasoning) improved a respondents ability to correctly interpret evidence. 
+
+
 - challenges with evidence-based deliberative democracy (e.g., [Dahlberg](http://onlinelibrary.wiley.com.ezproxy1.lib.asu.edu/doi/10.1111/j.1083-6101.2001.tb00137.x/full))
 - agonistic pluralism (e.g., [Mouffe](http://www.jstor.org/discover/10.2307/40971349?uid=3739552&uid=2&uid=4&uid=3739256&sid=21103788623627)) 
 - [Bringing values and deliberation to science communication](http://www.pnas.org/content/110/Supplement_3/14081.full) - Tom Dietz 
 - See recent issue in PAR on values http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-6210/earlyview
 - [No, you’re not entitled to your opinion](http://theconversation.com/no-youre-not-entitled-to-your-opinion-9978#comment_88159) - Patrick Stokes
 - policy analysis literature: intersection of analysis and politics; post-positivism, "evidence, argument and persuasion" (Majone), "democracy and expertise" (Fischer); 
+
+
 
 
 ###Climate Change, as an example
