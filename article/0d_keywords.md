@@ -6,3 +6,8 @@ version 0.1.2
 - open governance
 - beliefs
 - processes
+- comprehension
+- cognition
+- empricism
+- politics
+- identity
