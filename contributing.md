@@ -1,5 +1,5 @@
 #Contributing
-version 0.1.3
+version 0.2.0
 
 We are not concerned with who you are or how significant you think your contribution is. Start by corecting a typo. Then dive in to more significant changes. You can [raise issues](https://github.com/ASU-CPI/honest-pi/issues), issue a [pull request](https://github.com/ASU-CPI/honest-pi/pulls) or contribute to the [wiki](https://github.com/ASU-CPI/honest-pi/wiki). 
 
@@ -24,7 +24,7 @@ You can also help to build the data that will support the second part of this ex
 
 But if you want to learn a bit about GitHub first, try our [beginner tutorial](http://nextpolicychallenge.github.io/tutorial.html).
 
-Formatting in GitHub requires the use of Markdown. But don't let that scare you. You can craft in Word, and then convert that to Markdown with this [handy app](http://word-to-markdown.herokuapp.com/). Or use Prose.io as described above
+Formatting in GitHub requires the use of Markdown. But don't let that scare you. You can craft in Word, and then convert that to Markdown with this [handy app](http://word-to-markdown.herokuapp.com/). Or use Prose.io as described above where a few formatting buttons are available, and then use this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for other functions.
 
 
 *A key guideline for contributing*: Part of this experiment has shown us that GitHub is ~~not an ideal~~ a terrible platform for text collaboration. One big limitation is that multiple changes to one file submitted in a pull request cannot be selectively "accepted" as with, for example, a Word document. To accommodate this, changes submitted as pull requests should be limited to one line or, at most, one paragraph. For more substantial changes (e.g., discussions about major structural changes), you can [raise an issue](https://github.com/ASU-CPI/honest-pi/issues) or talk about it on the [wiki](https://github.com/ASU-CPI/honest-pi/wiki). 
