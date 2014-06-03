@@ -16,6 +16,8 @@ If you want an easier way to make changes, try this:
 4. Just click on a file, start adding, deleting, changing ... 
 5. When done, click the save icon on the right hand side, then click on the "Commit" button. 
 
+N.B.: when editing / viewing files in Prose.io, URL are not clickable - you will need to copy and paste URLs to follow them.
+
 ##Problems?
 
 You can also help to build the data that will support the second part of this experiment - [a research paper that will observe and report on the process of writing the first article](https://github.com/ASU-CPI/github-experiment) - by recording any observations or thoughts on the process in this [running file of notes on this process](https://github.com/ASU-CPI/github-experiment/blob/master/notes.md).
@@ -24,4 +26,5 @@ But if you want to learn a bit about GitHub first, try our [beginner tutorial](h
 
 Formatting in GitHub requires the use of Markdown. But don't let that scare you. You can craft in Word, and then convert that to Markdown with this [handy app](http://word-to-markdown.herokuapp.com/). Or use Prose.io as described above
 
-*A key guideline for contributing*: GitHub is not an ideal platform for text collaboration. One big limitation is that multiple changes to one file submitted in a pull request cannot be selectively "accepted" as with, for example, a Word document. To accommodate this, changes submitted as pull requests should be limited to one line or, at most, one paragraph. For more substantial changes (e.g., discussions about major structural changes), you can [raise an issue](https://github.com/ASU-CPI/honest-pi/issues) or talk about it on the [wiki](https://github.com/ASU-CPI/honest-pi/wiki). 
+
+*A key guideline for contributing*: Part of this experiment has shown us that GitHub is ~~not an ideal~~ a terrible platform for text collaboration. One big limitation is that multiple changes to one file submitted in a pull request cannot be selectively "accepted" as with, for example, a Word document. To accommodate this, changes submitted as pull requests should be limited to one line or, at most, one paragraph. For more substantial changes (e.g., discussions about major structural changes), you can [raise an issue](https://github.com/ASU-CPI/honest-pi/issues) or talk about it on the [wiki](https://github.com/ASU-CPI/honest-pi/wiki). 
