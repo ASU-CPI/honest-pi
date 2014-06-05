@@ -7,6 +7,8 @@ Kahan, D. M., Peters, E., Wittlin, M., Slovic, P., Ouellette, L. L., Braman, D.,
 
 Lasswell, H. D. (1951). “The policy orientation”, pp. 3-15 in D. Lerner and H.D. Lasswell (eds.), _The Policy Sciences_. Stanford, CA: Stanford University Press.
 
+Laudan, L. (1990) _Science and Relativism: Some Key Controversies in the Philosophy of Science_. Chicago: University of Chicago,
+
 Quade, E. S. (1975). _Analysis for public decisions_. New York: Elsevier.
 
 Simon, H. A. (2013). _Administrative behavior_. 4th edition. New York: Simon and Schuster.
