@@ -8,6 +8,10 @@ Section outline:
 
 Science communication requires the important distinction that both facts and values are at play when citizens interpret scientific results as evidence or information (Dietz, 2013).  This is critical because as science has become more important to our society in recent decades, science has been increasingly politicized and therefore interpreted through a political framework based on values.  
 
+We must first deal with the issue of epistemic or factual relativism, in which "What one generally calls a fact is an interpretation of a situation that no one, at least for the moment, wants to call into question." (Gérard Fourez, quoted in Sokal and Bricmont, 1999, 101). Epistemic relativism also identifies the non-cognitive interests or unconcious influencers (economic or social incentives, risk perceptions, values) determine not just the acceptance of scienctific findings, but the course of science itself. Relativism as a philosophy of science has led to the post-positivist view that science does not represent a superior or reliable way of knowing. 
+
+Laudan (1990) critiques relativism, especially the claim that all science is value-driven and thus all facts are socially constructed. 
+
 Of course the fact/value distinction has been subject to considerable discussion and interpretation in itself.  It may be important to consider beliefs as an intervening variable between hard facts and values as norms of conduct.  Pre-existing beliefs and world views may strongly influence the interpretation of the evidence offered by factual scientific material, as noted briefly below. 
 
 The challenge: When the science is "uncertain" and when the "facts" are unclear, you cannot have a productive discussion about governance objectives and associated collective policy or consequential individual action. Uncertain science requires us to focus on a more nuanced view of public deliberation as contested and conflicted political activity rather than an orderly translation of governance or management objectives into rational and coherent action.
