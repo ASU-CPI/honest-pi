@@ -1,5 +1,5 @@
 #Literature Review
-version 0.3.0
+version 0.4.0
 
 Section outline:
 - what's the problem? examples, observations of the phenomenon
@@ -8,7 +8,9 @@ Section outline:
 
 Science communication requires the important distinction that both facts and values are at play when citizens interpret scientific results as evidence or information (Dietz, 2013).  This is critical because as science has become more important to our society in recent decades, science has been increasingly politicized and therefore interpreted through a political framework based on values.  
 
-We must first deal with the issue of epistemic or factual relativism, in which "What one generally calls a fact is an interpretation of a situation that no one, at least for the moment, wants to call into question." (Gérard Fourez, quoted in Sokal and Bricmont, 1999, 101). Epistemic relativism also identifies the non-cognitive interests or unconcious influencers (economic or social incentives, risk perceptions, values) determine not just the acceptance of scienctific findings, but the course of science itself. Relativism as a philosophy of science has led to the post-positivist view that science does not represent a superior or reliable way of knowing. 
+Daniel Patrick Moynihan's assertion that "everyone is entitled to their own opinion but not their own facts" raises two interesting issues. Stokes (2010) takes on the claim that "everyone is entitled to their opinion" but distinguishing one's right to believe whatever they wish and the right to assert that belief in an argument without evidence or logic. If an opinion is taken as a matter of taste - e.g., to prefer tea to coffee - it is unreasonable to argue about a difference of opinion. Opinions can also cover views that concern most people, as in the best course of action given plausible alternatives. These are a reasonable and traditional basis for argument, 
+
+Taking the second assertion first At the core of the question about what "facts" are believed, is the issue of epistemic or factual relativism, in which "What one generally calls a fact is an interpretation of a situation that no one, at least for the moment, wants to call into question." (Gérard Fourez, quoted in Sokal and Bricmont, 1999, 101). Epistemic relativism also identifies the non-cognitive interests or unconcious influencers (economic or social incentives, risk perceptions, values) determine not just the acceptance of scienctific findings, but the course of science itself. Relativism as a philosophy of science has led to the post-positivist view that science does not represent a superior or reliable way of knowing. 
 
 Laudan (1990) critiques relativism, especially the claim that all science is value-driven and thus all facts are socially constructed. 
 
