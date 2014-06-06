@@ -11,6 +11,8 @@ Laudan, L. (1990) _Science and Relativism: Some Key Controversies in the Philoso
 
 Quade, E. S. (1975). _Analysis for public decisions_. New York: Elsevier.
 
+Saul, J. R. (2013). _Voltaire's bastards: The dictatorship of reason in the West_. New York: Simon and Schuster.
+
 Simon, H. A. (2013). _Administrative behavior_. 4th edition. New York: Simon and Schuster.
 
 Sokal, A., & Bricmont, J. (1999). _Fashionable nonsense: Postmodern intellectuals' abuse of science_. Macmillan.
